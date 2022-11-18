@@ -19,8 +19,8 @@ jobs:
     - name: Hugo Deploy GitHub Pages
       uses: benmatselby/hugo-deploy-gh-pages@main
       env:
-        HUGO_VERSION: 0.88.0
-        GO_VERSION: 1.17
+        HUGO_VERSION: 0.105.0
+        GO_VERSION: 1.19.3
         TARGET_REPO: FICTION-ZJU/FICTION-ZJU.github.io
         TARGET_BRANCH: main
         TOKEN: ${{ secrets.WOWCHEMY_DEPLOY_TOKEN }}
