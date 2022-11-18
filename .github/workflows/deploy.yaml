@@ -20,6 +20,8 @@ jobs:
       uses: benmatselby/hugo-deploy-gh-pages@main
       env:
         HUGO_VERSION: 0.88.0
+        GO_VERSION: 1.17
         TARGET_REPO: FICTION-ZJU/FICTION-ZJU.github.io
+        TARGET_BRANCH: main
         TOKEN: ${{ secrets.WOWCHEMY_DEPLOY_TOKEN }}
         CNAME: www.fiction-zju.xyz
