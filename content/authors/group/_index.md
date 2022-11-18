@@ -10,7 +10,7 @@ superuser: true
 
 # Organizations/Affiliations
 organizations:
-  - name: College of Computer Science and Technology blabla
+  - name: College of Computer Science and Technology
     #url: 'http://www.en.cs.zju.edu.cn/'
   - name: Zhejiang University
     #url: 'https://www.zju.edu.cn/english/'
