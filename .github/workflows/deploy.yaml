@@ -19,6 +19,7 @@ jobs:
     - name: Hugo Deploy GitHub Pages
       uses: benmatselby/hugo-deploy-gh-pages@main
       env:
+        HUGO_EXTENDED: true
         HUGO_VERSION: 0.105.0
         GO_VERSION: 1.19.3
         TARGET_REPO: FICTION-ZJU/FICTION-ZJU.github.io
