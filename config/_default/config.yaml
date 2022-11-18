@@ -3,8 +3,8 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Wowchemy Research Group # Website name
-baseURL: 'https://example.com/' # Website URL
+title: Formal Verification Group # Website name
+baseURL: 'https://fiction-zju.netlify.app/' # Website URL
 
 ############################
 ## LANGUAGE
@@ -20,6 +20,8 @@ removePathAccents: true
 ############################
 
 module:
+  #adding proxy for using Hugo in China
+  #proxy: https://goproxy.cn
   imports:
     - path: github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-netlify-cms
     - path: github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-netlify
