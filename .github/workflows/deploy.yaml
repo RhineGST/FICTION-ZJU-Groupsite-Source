@@ -22,7 +22,7 @@ jobs:
         HUGO_EXTENDED: true
         HUGO_VERSION: 0.105.0
         GO_VERSION: 1.19.3
-        TARGET_REPO: FICTION-ZJU/FICTION-ZJU.github.io
+        TARGET_REPO: FICTION-ZJU/FICTION.github.io
         TARGET_BRANCH: main
         TOKEN: ${{ secrets.WOWCHEMY_DEPLOY_TOKEN }}
         #CNAME: www.fiction-zju.xyz
