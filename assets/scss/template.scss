@@ -17,3 +17,10 @@
     height: 268px;
     border-radius: 0%;
 }
+
+.navbar-brand img {
+    width: auto;
+    height: -webkit-fill-available;
+    max-height: 40px;
+    max-width: fit-content;
+}
