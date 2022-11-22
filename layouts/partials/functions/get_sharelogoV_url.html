@@ -1,7 +1,0 @@
-{{/* Function to get logoV URL for JSONLD. */}}
-{{/* Inputs: page context */}}
-{{/* Output: logoV URL (URL) */}}
-
-{{ $logoV_url := (partial "functions/get_sharelogoV" (dict "constraint" "fit" "size" 192)).Permalink }}
-
-{{ return $logoV_url }}
