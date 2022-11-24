@@ -43,7 +43,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Formal Verification Group at Zhejiang University. This work is licensed under {license}'
+    notice: '© {year} Formal Verification Group at Zhejiang University. This work is inspired by [Genetic Logic Lab](http://geneticlogiclab.org/) and licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
@@ -70,7 +70,7 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/<username>/<repository>'
+    url: 'https://github.com/FICTION-ZJU/FICTION-ZJU.github.io'
     content_dir: content
     branch: main
   avatar:

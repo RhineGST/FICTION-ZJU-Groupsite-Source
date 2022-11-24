@@ -1,6 +1,6 @@
 ---
 widget: about
-widget_id: welcome message
+widget_id: about
 headless: true  # This file represents a page section.
 
 # Put Your Section Options Here (title, background etc.)

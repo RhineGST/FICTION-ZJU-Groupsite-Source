@@ -25,6 +25,10 @@ role: Intern
 user_groups:
   - Researchers
   - Interns
+  # - Intern Alumni
+
+#department:
+    #- College of Computer Science and Technology
 
 # Organizations/Affiliations
 organizations:

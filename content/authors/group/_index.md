@@ -46,8 +46,8 @@ highlight_name: false
 #  - Researchers
 ---
 
-The Formal Verification Group (FICTION), headed by Prof. Dr. [Mingshuai Chen](/author/mingshuai-chen/), is a research unit embedded in the College of Computer Science and Technology at Zhejiang University (ZJU), Hangzhou, China. We develop formal reasoning techniques for programs and hybrid discrete-continuous systems for ensuring the reliability and effectiveness of safety-critical software systems while pushing the limits of automation as far as possible.
+The Formal Verification Group (FICTION), headed by Prof. Dr. [Mingshuai Chen](/author/mingshuai-chen/), is a research unit embedded in the College of Computer Science and Technology at Zhejiang University (ZJU), Hangzhou, China. We develop formal reasoning techniques for programs and hybrid discrete-continuous systems for ensuring the reliability and effectiveness of safety-critical software systems while pushing the limits of automation as far as possible. Check out the [featured publications](/#featured) as examples of our research.
 
 We are constantly on the hunt of self-motivated Postdocs, Ph.D./Master Students, and Research Assistants/Interns to join our group at ZJU. Check out the [open positions](/vacancies/) in case you are interested.
 
-This site is currently under construction.
+<i class="fa-solid fa-triangle-exclamation"></i> This site is currently under construction.

@@ -4,16 +4,16 @@
 
 widget = "awesome"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
-weight = 1  # Order that this section will appear.
+active = false  # Activate this widget? true/false
+weight = 5  # Order that this section will appear.
 
-title = ""
+title = "Alumni"
 subtitle = ""
 
 [content]
   # Choose which groups/teams of users to display.
   #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
-  user_groups = ["Principal Investigator", "Postdocs", "Ph.D. Students", "Master Students", "Bachelor Students", "Interns", "Administration", "Visitors"]
+  user_groups = ["Postdoc Alumni", "Ph.D. Alumni", "Master Alumni", "Bachelor Alumni", "Intern Alumni"]
 
 [design]
   # Show user's social networking links? (true/false)
@@ -55,38 +55,3 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-
-<!-- ---
-# An instance of the People widget.
-# Documentation: https://wowchemy.com/docs/page-builder/
-widget: people
-
-# This file represents a page section.
-headless: true
-
-# Order that this section appears on the page.
-weight: 68
-
-#title: Meet the Team
-subtitle:
-
-content:
-  # Choose which groups/teams of users to display.
-  #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
-  user_groups:
-    - Principal Investigator
-    # - Researchers
-    - Postdocs
-    - Ph.D. Students
-    - Master Students
-    - Bachelor Students
-    - Interns
-    - Administration
-    - Visitors
-    - Alumni
-
-design:
-  show_interests: false
-  show_role: true
-  show_social: true
---- -->
