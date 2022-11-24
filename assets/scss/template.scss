@@ -24,3 +24,14 @@
 //     max-height: 35px;
 //     max-width: fit-content;
 // }
+
+// .universal-wrapper h1 {
+//     text-align: left;
+// }
+
+// justify the publication-search form to the right
+.form-row {
+    margin-right: auto;
+    margin-left: auto;
+    justify-content: right;
+}

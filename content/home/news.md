@@ -19,6 +19,11 @@ content:
   order: desc
   page_type: news
 design:
+  # View option
+  #  1 = List
+  #  2 = Compact
+  #  3 = Card
+  #  4 = Citation (publication only)
   view: 3
-  columns: '1'
+  columns: '2'
 ---
