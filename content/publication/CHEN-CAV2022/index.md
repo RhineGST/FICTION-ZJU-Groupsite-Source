@@ -36,19 +36,21 @@ abstract: We study discrete probabilistic programs with potentially unbounded lo
 
 tags:
   - probabilistic programs
-  - quantitative verification
+  - quantitative reasoning
+  - verification
   - program equivalence
   - semantics
   - generating functions
+  - uncertainty
 
 # Summary. An optional shortened abstract.
 summary: ''
 
-# links:
-# - name: ""
-#   url: ""
+links:
+  - name: "Artifact Evaluated"
+    url: "https://github.com/LKlinke/Prodigy"
 url_pdf: '/papers/CAV2022.pdf'
-url_code: 'https://github.com/LKlinke/Prodigy'
+url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''

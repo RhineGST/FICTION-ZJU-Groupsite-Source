@@ -1,25 +1,25 @@
 ---
-title: 'Latticed $k$-Induction with an Application to Probabilistic Programs'
+title: 'Computing Reachable Sets of Linear Vector Fields Revisited'
 subtitle: ''
 
-featured: true
+featured: false
 draft: false
 
 authors:
-  - Kevin Batz
+  - Ting Gan
   - Mingshuai Chen
-  - Benjamin Lucien Kaminski
-  - Joost-Pieter Katoen
-  - Christoph Matheja
-  - Philipp Schröer
+  - Yangjia Li
+  - Bican Xia
+  - Naijun Zhan
 # author_notes:
 #  - 'Equal contribution'
 #  - 'Equal contribution'
 
-date: '2021-07-15T00:00:00Z'
+date: '2016-07-01T00:00:00Z'
+#date: '2015-09-01T00:00:00Z'
 #lastmod: 2021-10-07T18:49:05-06:00
 
-doi: '10.1007/978-3-030-81688-9_25'
+doi: '10.1109/ECC.2016.7810321'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2017-01-01T00:00:00Z'
@@ -31,33 +31,32 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: In *CAV 2021*
-publication_short: In *CAV 2021*
+publication: '*ECC 2016*'
+publication_short: '*ECC 2016*'
 
-abstract: We revisit two well-established verification techniques, *$k$-induction* and *bounded model checking* (BMC), in the more general setting of fixed point theory over complete lattices. Our main theoretical contribution is *latticed $k$-induction*, which (i) generalizes classical $k$-induction for verifying transition systems, (ii) generalizes Park induction for bounding fixed points of monotonic maps on complete lattices, and (iii) extends from naturals $k$ to transfinite ordinals $\kappa$, thus yielding $\kappa$-induction. The lattice-theoretic understanding of $k$-induction and BMC enables us to apply both techniques to the *fully automatic verification of infinite-state probabilistic programs*. Our prototypical implementation manages to automatically verify non-trivial specifications for probabilistic programs taken from the literature that -- using existing techniques -- cannot be verified without synthesizing a stronger inductive invariant first.
+abstract: "The reachability problem is one of the most important issues in the verification of hybrid systems. But unfortunately the reachable sets for most of hybrid systems are not computable except for some special families. In our previous work, we identified a family of vector fields, whose state parts are linear with real eigenvalues, while input parts are exponential functions, and proved its reachability problem is decidable. In this paper, we investigate another family of vector fields, whose state parts are linear, but with pure imagine eigenvalues, while input parts are trigonometric functions, and prove its reachability problem is decidable also. To the best of our knowledge, the two families are the largest families of linear vector fields with a decidable reachability problem. In addition, we present an approach on how to abstract general linear dynamical systems to the first family. Comparing with existing abstractions for linear dynamical systems, experimental results indicate that our abstraction is more precise."
 
 tags:
-  - probabilistic programs
-  - quantitative reasoning
+  - differential dynamics
+  - hybrid systems
+  - reachability
+  - decidability
   - verification
-  - $k$-induction
-  - probabilistic model checking
-  - fixed point theory
-  - inductive invariants
-  - uncertainty
+  - solvable systems
+  - Tarski's algebra
 
 # Summary. An optional shortened abstract.
 summary: ''
 
-links:
-  - name: "Artifact Evaluated"
-    url: "https://github.com/moves-rwth/kipro2"
-url_pdf: '/papers/CAV2021-b.pdf'
-url_code: ''
+# links:
+# - name: ""
+#   url: ""
+url_pdf: '/papers/ECC2016.pdf'
+url_code: 'http://lcs.ios.ac.cn/~chenms/tools/LinR.tar.bz2'
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: '/slides/ISCAS22.pdf'
+url_slides: '/slides/ECC16.pdf'
 url_source: ''
 url_video: ''
 

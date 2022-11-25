@@ -1,25 +1,31 @@
 ---
-title: 'Latticed $k$-Induction with an Application to Probabilistic Programs'
+title: 'PA-Boot: A Formally Verified Authentication Protocol for Multiprocessor Secure Boot'
 subtitle: ''
 
-featured: true
+featured: false
 draft: false
 
 authors:
-  - Kevin Batz
+  - Zhuoruo Zhang
+  - Chenyang Yu
+  - He Huang
+  - Rui Chang
   - Mingshuai Chen
-  - Benjamin Lucien Kaminski
-  - Joost-Pieter Katoen
-  - Christoph Matheja
-  - Philipp Schröer
+  - Qinming Dai
+  - Wenbo Shen
+  - Yongwang Zhao
+  - Kui Ren
 # author_notes:
 #  - 'Equal contribution'
 #  - 'Equal contribution'
 
-date: '2021-07-15T00:00:00Z'
+#to be updated
+date: '2022-09-16T00:00:00Z'
+#date: '2015-09-01T00:00:00Z'
 #lastmod: 2021-10-07T18:49:05-06:00
 
-doi: '10.1007/978-3-030-81688-9_25'
+#to be updated
+doi: '10.48550/ARXIV.2209.07936'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2017-01-01T00:00:00Z'
@@ -28,36 +34,33 @@ publishDate: '2017-01-01T00:00:00Z'
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['1']
+publication_types: ['3']
 
 # Publication name and optional abbreviated publication name.
-publication: In *CAV 2021*
-publication_short: In *CAV 2021*
+publication: '*arXiv*, abs/2209.07936'
+publication_short: '*arXiv*'
 
-abstract: We revisit two well-established verification techniques, *$k$-induction* and *bounded model checking* (BMC), in the more general setting of fixed point theory over complete lattices. Our main theoretical contribution is *latticed $k$-induction*, which (i) generalizes classical $k$-induction for verifying transition systems, (ii) generalizes Park induction for bounding fixed points of monotonic maps on complete lattices, and (iii) extends from naturals $k$ to transfinite ordinals $\kappa$, thus yielding $\kappa$-induction. The lattice-theoretic understanding of $k$-induction and BMC enables us to apply both techniques to the *fully automatic verification of infinite-state probabilistic programs*. Our prototypical implementation manages to automatically verify non-trivial specifications for probabilistic programs taken from the literature that -- using existing techniques -- cannot be verified without synthesizing a stronger inductive invariant first.
+abstract: "Hardware supply-chain attacks are raising significant security threats to the boot process of multiprocessor systems. This paper identifies a new, prevalent hardware supply-chain attack surface that can bypass multiprocessor secure boot due to the absence of processor-authentication mechanisms. To defend against such attacks, we present PA-Boot, the first formally verified processor-authentication protocol for secure boot in multiprocessor systems. PA-Boot is proved functionally correct and is guaranteed to detect multiple adversarial behaviors, e.g., processor replacements, man-in-the-middle attacks, and tampering with certificates. The fine-grained formalization of PA-Boot and its fully mechanized security proofs are carried out in the Isabelle/HOL theorem prover with 306 lemmas/theorems and ~7,100 LoC. Experiments on a proof-of-concept implementation indicate that PA-Boot can effectively identify boot-process attacks with a considerably minor overhead and thereby improve the security of multiprocessor systems."
 
 tags:
-  - probabilistic programs
-  - quantitative reasoning
+  - security
+  - protocol
   - verification
-  - $k$-induction
-  - probabilistic model checking
-  - fixed point theory
-  - inductive invariants
-  - uncertainty
+  - hardware
+  - theorem proving
 
 # Summary. An optional shortened abstract.
 summary: ''
 
-links:
-  - name: "Artifact Evaluated"
-    url: "https://github.com/moves-rwth/kipro2"
-url_pdf: '/papers/CAV2021-b.pdf'
+# links:
+# - name: ""
+#   url: ""
+url_pdf: 'https://arxiv.org/pdf/2209.07936.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: '/slides/ISCAS22.pdf'
+url_slides: ''
 url_source: ''
 url_video: ''
 

@@ -1,25 +1,25 @@
 ---
-title: 'Reachability Analysis for Solvable Dynamical Systems'
+title: 'Decidability of the Reachability for a Family of Linear Vector Fields'
 subtitle: ''
 
-featured: true
+featured: false
 draft: false
 
 authors:
   - Ting Gan
   - Mingshuai Chen
-  - Yangjia Li
+  - Liyun Dai
   - Bican Xia
   - Naijun Zhan
 # author_notes:
 #  - 'Equal contribution'
 #  - 'Equal contribution'
 
-date: '2018-07-01T00:00:00Z'
+date: '2015-11-22T00:00:00Z'
 #date: '2015-09-01T00:00:00Z'
 #lastmod: 2021-10-07T18:49:05-06:00
 
-doi: '10.1109/TAC.2017.2763785'
+doi: '10.1007/978-3-319-24953-7_34'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2017-01-01T00:00:00Z'
@@ -28,13 +28,13 @@ publishDate: '2017-01-01T00:00:00Z'
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['2']
+publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: '*IEEE Transactions on Automatic Control*, 63(7)'
-publication_short: '*IEEE Trans. Automat. Contr.*'
+publication: '*ATVA 2015*'
+publication_short: '*ATVA 2015*'
 
-abstract: "The reachability problem is one of the most important issues in the verification of hybrid systems. But unfortunately the reachable sets for most of hybrid systems are not computable. In the literature, only some special families of linear vector fields are proved with decidable reachability problem, let alone nonlinear ones. In this paper, we investigate the reachability problem of nonlinear vector fields by identifying three families of nonlinear vector fields with solvability and prove that their reachability problems are decidable. An $n$-dimension dynamical system is called solvable if its state variables can be partitioned into $m$ groups such that the derivatives of the variables in the $i$th group are linear in themselves, but possibly nonlinear in the variables from the $1$-st to $i-1$th groups. The three families of nonlinear solvable vector fields under consideration are: the matrices corresponding to the linear parts of any vector field in the first family are nilpotent; the matrices corresponding to the linear parts of any vector in the second family are only with real eigenvalues; the matrices corresponding to the linear parts of any vector field in the third family are only with pure imaginary eigenvalues. The experimental results indicate the efficiency of our approach."
+abstract: "The reachability problem is one of the most important issues in the verification of hybrid systems. Computing the reachable sets of differential equations is difficult, although computing the reachable sets of finite state machines is well developed. Hence, it is not surprising that the reachability of most of hybrid systems is undecidable. In this paper, we identify a family of vector fields and show its reachability problem is decidable. The family consists of all vector fields whose state parts are linear, while input parts are non-linear, possibly with exponential expressions. Such vector fields are commonly used in practice.To the best of our knowledge, the family is one of the most expressive families of vector fields with a decidable reachability problem.The decidability is achieved by proving the decidability of the extension of Tarski's algebra with some specific exponential functions, which has been proved by Strzeboński. In this paper, we propose another decision procedure, which is more efficient when all constraints are open sets. The experimental results indicate the efficiency of our approach, even better than existing approaches based on approximation and numeric computation in general."
 
 tags:
   - differential dynamics
@@ -42,7 +42,7 @@ tags:
   - reachability
   - decidability
   - verification
-  - solvable systems
+  - quantifier elimination
   - Tarski's algebra
 
 # Summary. An optional shortened abstract.
@@ -51,12 +51,12 @@ summary: ''
 # links:
 # - name: ""
 #   url: ""
-url_pdf: '/papers/TAC2018.pdf'
+url_pdf: '/papers/ATVA2015.pdf'
 url_code: 'http://lcs.ios.ac.cn/~chenms/tools/LinR.tar.bz2'
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: ''
+url_slides: '/slides/ATVA15.pdf'
 url_source: ''
 url_video: ''
 

@@ -42,6 +42,18 @@ permalinks:
   authors: '/author/:slug/'
   tags: '/tag/:slug/'
   categories: '/category/:slug/'
+  #rename publication types
+  # publication_types: [
+  #   'Uncategorized',  # 0
+  #   'Conference Paper',  # 1
+  #   'Journal Article',  # 2
+  #   'Preprint / Work in Progress',  # 3
+  #   'Technical Report',  # 4
+  #   'Book',  # 5
+  #   'Book Chapter',  # 6
+  #   'Thesis', # 7
+  #   'Pat' # 8
+  # ]
   publication_types: '/publication-type/:slug/'
 disableAliases: true
 outputs:
