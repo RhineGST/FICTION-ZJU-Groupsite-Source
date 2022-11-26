@@ -41,6 +41,7 @@ tags:
   - program equivalence
   - semantics
   - generating functions
+  - decidability
   - uncertainty
 
 # Summary. An optional shortened abstract.

@@ -97,8 +97,13 @@ features:
       index_name: ''
       show_logo: false
   map:
-    provider: 'mapnik'
-    api_key: ''
+    # Map provider:
+    #   0: No map
+    #   1: Google Maps
+    #   2: OpenStreetMap (Mapnik)
+    #   3: OpenStreetMap (Mapbox)
+    provider: 'google'
+    api_key: 'AIzaSyBi2Tp8zuitnldcHQAMy9693EfnECFHdH4'
     zoom: 15
 
 # Extensions
