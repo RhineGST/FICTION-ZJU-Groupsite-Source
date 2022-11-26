@@ -31,7 +31,7 @@ content:
   # email: test@example.org
   # phone: 888 888 88 88
   address:
-    street: 38 Zheda Road
+    street: Zheda Road 38
     city: Hangzhou
     region: Zhejiang
     postcode: '310027'

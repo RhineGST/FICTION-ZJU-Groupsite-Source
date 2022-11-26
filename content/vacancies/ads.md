@@ -11,7 +11,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 10
 
-title:
+title: Open Positions
 subtitle:
 
 design:
@@ -24,12 +24,10 @@ design:
 #    image_size: cover
 #    text_color_light: true
   spacing:
-    padding: ['20px', '0', '20px', '0']
+    padding: ['35px', '0', '20px', '0']
 advanced:
   css_class: fullscreen
 ---
-
-# 【博士招生】计算机学院陈明帅课题组-形式化方法
 
 ## 导师简介
 
