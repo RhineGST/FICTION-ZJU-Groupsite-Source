@@ -53,6 +53,10 @@ links:
     icon: certificate
     name: "Best Paper Award @ FMAC 2019"
     url: "/files/BPA-FMAC19.png"
+  - icon_pack: fas
+    icon: certificate
+    name: "Springer High-Impact Paper"
+    url: "https://www.springernature.com/de/researchers/campaigns/chinese-research/computer-science#browse-the-book-chapters"
 url_pdf: '/papers/TACAS2020.pdf'
 url_code: ''
 url_dataset: ''

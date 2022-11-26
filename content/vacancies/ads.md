@@ -31,43 +31,56 @@ advanced:
 
 We are constantly on the hunt of self-motivated **Postdocs**, **Ph.D./Master Students**, and **Research Assistants/Interns** to join our research group at ZJU.
 
-## 导师简介
 
-陈明帅，研究员、博士生导师，入选浙江大学“新百人计划”、“启真学者”，将于2022年底入职浙江大学计算机科学与技术学院。2019年于中国科学院软件研究所获计算机软件与理论专业博士学位，同年获中国科学院院长特别奖，此后赴德国RWTH Aachen从事博士后研究工作，合作导师为欧洲科学院院士Joost-Pieter Katoen教授。主要研究方向为**程序语言**、**形式验证**、**数理逻辑**、**自动推理**等，在Inf. Compt.、IEEE Trans. Automat. Contr、CAV、TACAS、IJCAR、FM等多个顶级国际期刊或会议上发表学术论文20余篇，曾获ATVA 2018杰出论文奖、FMAC 2019最佳论文奖、Springer Nature计算机领域2020年中国学者1%高影响论文，同时任30余个国际期刊或会议的同行审稿人，并受邀在实时系统领域顶级国际会议RTSS 2020及ESWEEK 2022上做专题报告。研究成果被成功应用于国家探月二期工程“嫦娥”三号软着陆、CTCS-3高速铁路控制等国家重大工程中的控制软件正确性保障中。
+## About the advisor
 
-**个人主页**：<https://moves.rwth-aachen.de/people/chenms/>
-**简历**：<http://lcs.ios.ac.cn/~chenms/CV_Mingshuai%20Chen.pdf>
+Prof. Dr. {{% mention "Mingshuai Chen" %}} is a ZJU100 Young Professor leading the [Formal Verification Group](https://fiction-zju.github.io/) at Zhejiang University. Prior to joining ZJU, he worked as a Postdoctoral Researcher at RWTH Aachen University and a Visiting Researcher at University of Oldenburg, both in Germany. He received the Ph.D. degree in computer science from the Institute of Software, Chinese Academy of Sciences in 2019. His primary research interest lies in formal verification and synthesis, broadly construed in mathematical logic and theoretical computer science.
 
-## 招收对象
+Mingshuai Chen has published over twenty peer-reviewed papers at flagship journals/conferences including Inf. Compt., IEEE Trans. Automat. Contr., CAV, TACAS, IJGAR, FM, etc. He serves in the reviewer panel of AMS Mathematical Reviews and the program/repeatability committees of SYNASC 2022, RTCSA 2021, VMCAI 2021, ADHS 2021, etc. He was the awardee of the Distinguished Paper Award at ATVA 2018, Best Paper Award at FMAC 2019, and the CAS-President Special Award in 2019 (1st awardee from ISCAS ever since its inception in 1985). Part of his research results has been successfully applied in the verification of control programs of the Chinese lunar lander Chang'e-3 and the Chinese high-speed railway system.
 
-* 拟于2023年秋季入学的直博生/推免生。
-* 计算机、数学、软件或相关专业。
-* 或天赋型、或勤奋型、或靠谱型、或带导师飞型，具有较扎实的数学或计算机理论基础，对纯粹的学术研究充满热情。
+<i class="fa-solid fa-download"></i> Check out Mingshuai Chen's [CV](/files/CV_Mingshuai%20Chen.pdf) for more detailed information.
 
-## 研究方向
 
-课题组旨在基于具有严格数学基础的**形式化方法**（模型检验、定理证明等），研发程序和离散-连续混成系统的**形式验证与生成**技术，以确保安全攸关信息物理融合系统的可靠性和有效性，并致力于推动验证与生成方法的**自动化**。具体研究方向包括（但不限于）：
+## Research topics
 
-* **数理逻辑与形式化验证**
-* **编程语言与程序理论**
-* **信息物理融合系统**
-* **概率与量子系统**
+Our research group aims to develop **formal reasoning techniques** for programs and hybrid discrete-continuous systems for ensuring the reliability and effectiveness of safety-critical software systems while pushing the limits of **automation** as far as possible. In general, we are interested in [**formal methods**](https://link.springer.com/chapter/10.1007/978-3-319-06410-9_4)[^1] -- the rigorous mathematical basis of computer science. Concrete research directions include (yet not limited to):
 
-注：形式化方法是计算机科学的核心，也是拥有最多图灵奖得主（先后有12位）的计算机学科分支。
+* **Logical Aspects of Computer Science**
+* **Formal Verification and Synthesis**
+* **Programming Theory/Languages**
+* **Model Checking and Theorem Proving**
+* **Cyber-Physical Systems**
+* **Probabilistic/Quantum Systems**
+* **Verification Meets AI/ML**
 
-## 学生培养
+<i class="fa-solid fa-download"></i> Check out Mingshuai Chen's [research statement](/files/Research%20Statement_Mingshuai%20Chen.pdf) for more details on these directions.
 
-曾参与指导多名本科生、硕士/博士研究生发表多篇领域顶级期刊或会议论文（如Inf. Compt.、CAV、POPL等）。你可以摸鱼，我不会放养。同学习，共进步。
+[^1]: Formal methods have long been at the heart of computer science; there are 12 [Turing Award Recipients](https://en.wikipedia.org/wiki/Turing_Award#Recipients) -- the most amongst all the sub-fields of computer science.
 
-* **科研相关**：导师尽力为学生屏蔽掉与科研无关的杂事，致力于为学生提供纯粹的科研环境；通过定期开设课程、研讨班等形式，跟踪相关领域前沿研究进展；深度参与学生从文献调研、课题选取、理论研发、文章撰写、到成果汇报的全周期研究工作。
-* **合作交流**：与多个国际知名课题组保持长期合作关系，包括德国RWTH Aachen, Saarland, Oldenburg; 美国MIT, UNM, CU Boulder; 丹麦DTU; 荷兰Radboud; 新加坡NTU; 中科院、北大等，为博士生提供在这些课题组的短期或长期访问/联合培养机会。
-* **工资待遇**：经费充足，有竞争力的工资+科研激励机制。
 
-## 投递方式
+## What do we expect?
 
-**简历**投递至邮箱：<chenms@cs.rwth-aachen.de>
+* Solid background in computer science, mathematics, control theory, software theory, or related areas. Knowledge in the following lectures is preferred:
+  - Undergraduate level: Automata Theory, Compiler Construction, Programming Languages, Differential Equations, and Discrete Mathematics.
+  - Graduate level: Mathematical Logic, Theory of Computation/Programming, Program Analysis/Verification, Formal Semantics, Model Checking, SAT/SMT Solving, Theorem Proving, Decision Procedures, Computer Algebra, Symbolic Computation, Game Theory, and Process Algebra.
+  - Mathematics and Control: Algebra, Optimization, Probability Theory, Stochastic Processes, Differential Geometry, and Optimal Control.
+* Passion and endurance for solving challenging (mathematical) research problems.
+* Research experience in the above-mentioned topics is a plus, yet not a requisite (except for Postdoc applicants).
 
-此外，课题组长期招募相关方向**硕士/博士研究生**、**博士后**、**科研助理**、**本科实习生**等，请有意者与上述邮箱取得联系。
+
+## Advising and teaching style
+
+Our overall goal of teaching and advising is to assist the students in developing interests and independent, critical thinking skills for approaching fundamental principles in theoretical computer science. We position ourselves as coaches and co-learners in an inclusive community consisting of the supervisor, the students, the colleagues, and the world around us.
+
+* **Research:** We are committed to providing students with a pure scientific research environment. The supervisor is deeply involved in the student's full-cycle research work ranging from literature review, topic assessment, effort allocation, theory development, paper writing, to result presentation. We provide regular seminars to keep track of cutting-edge research outcomes. We constantly enjoy assisting students to develop their immature, yet creative ideas into solid research results (which we took more like collaborations than mentor-and-mentees). As an example, one of our mentees had co-authored two CAV papers already by the first two years of his graduate program.
+* **Collaborations and Exchange:** We have been -- and will continue to be -- working on the aforementioned research topics in extensive collaborations with international research groups at, e.g., RWTH Aachen, Saarland, and Oldenburg in Germany; MIT, UNM, and CU Boulder in the US; DTU in Denmark; Radboud in the Netherlands; NTU in Singapore; ISCAS and PKU in China. We are keen to offer every Ph.D. student the opportunity of short/long-term exchange programs with one or more of these groups.
+* **Wages**: We got sufficient funding to offer competitive packages!
+
+
+## How to apply?
+
+Drop us an [**email**](mailto:chenms@cs.rwth-aachen.de) that encloses your **CV** and **transcripts**. Note that the Ph.D. position starting in September, 2023 has been closed.
+
 
 ## About Hangzhou
 
@@ -79,3 +92,8 @@ As one of China's most renowned and prosperous cities for much of the last mille
 </div>
 
 <!-- ![West Lake](/files/West-Lake.jpeg "Image credit: [**Unsplash**](https://unsplash.com/)") -->
+
+
+## About Zhejiang University
+
+TBA.
