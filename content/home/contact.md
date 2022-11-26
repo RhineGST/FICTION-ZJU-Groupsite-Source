@@ -12,7 +12,7 @@ headless: true
 weight: 100
 
 title: Contact
-subtitle: (tentative)
+subtitle:
 
 content:
   # Automatically link email and phone or display as text?
