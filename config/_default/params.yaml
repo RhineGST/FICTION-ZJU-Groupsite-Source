@@ -102,8 +102,9 @@ features:
     #   1: Google Maps
     #   2: OpenStreetMap (Mapnik)
     #   3: OpenStreetMap (Mapbox)
-    provider: 'google'
-    api_key: 'AIzaSyBi2Tp8zuitnldcHQAMy9693EfnECFHdH4'
+    provider: 'mapnik'
+    api_key: ''
+    #api_key: 'AIzaSyBi2Tp8zuitnldcHQAMy9693EfnECFHdH4'
     zoom: 15
 
 # Extensions
