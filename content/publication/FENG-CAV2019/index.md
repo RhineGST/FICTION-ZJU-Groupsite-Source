@@ -49,8 +49,9 @@ tags:
 summary: ''
 
 links:
-  - name: "Artifact Evaluated"
-    #link is missing
+  - icon_pack: fas
+    icon: stamp
+    name: "Artifact Evaluated"
     url: "http://lcs.ios.ac.cn/~chenms/tools/UDDER.tar.bz2"
 url_pdf: '/papers/CAV2019.pdf'
 url_code: ''

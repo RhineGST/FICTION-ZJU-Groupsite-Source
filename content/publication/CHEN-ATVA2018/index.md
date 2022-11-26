@@ -46,9 +46,11 @@ tags:
 # Summary. An optional shortened abstract.
 summary: ''
 
-# links:
-# - name: ""
-#   url: ""
+links:
+  - icon_pack: fas
+    icon: certificate
+    name: "Distinguished Paper Award"
+    url: "/files/DPA-ATVA18-photo.jpeg"
 url_pdf: '/papers/ATVA2018.pdf'
 url_code: 'https://www.notebookarchive.org/synthesizing-controllers-for-safety-games-under-delayed-information--2021-08-5lc88f4/'
 url_dataset: ''
@@ -80,8 +82,8 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides:
 ---
-![Distinguished Paper Award @ ATVA 2018](/files/DPA-ATVA18.png "Distinguished Paper Award @ ATVA 2018")
-![Distinguished Paper Award @ ATVA 2018](/files/DPA-ATVA18-photo.jpeg "Distinguished Paper Award @ ATVA 2018")
+<!-- ![Distinguished Paper Award @ ATVA 2018](/files/DPA-ATVA18.png "Distinguished Paper Award @ ATVA 2018")
+![Distinguished Paper Award @ ATVA 2018](/files/DPA-ATVA18-photo.jpeg "Distinguished Paper Award @ ATVA 2018") -->
 
 <!-- {{% callout note %}}
 Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.

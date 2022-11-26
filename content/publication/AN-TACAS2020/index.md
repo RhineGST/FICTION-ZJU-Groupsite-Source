@@ -45,8 +45,14 @@ tags:
 summary: ''
 
 links:
-  - name: "Artifact Evaluated"
+  - icon_pack: fas
+    icon: stamp
+    name: "Artifact Evaluated"
     url: "https://github.com/Leslieaj/OTALearning"
+  - icon_pack: fas
+    icon: certificate
+    name: "Best Paper Award @ FMAC 2019"
+    url: "/files/BPA-FMAC19.png"
 url_pdf: '/papers/TACAS2020.pdf'
 url_code: ''
 url_dataset: ''
@@ -78,7 +84,6 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides:
 ---
-![Best Paper Award @ FMAC 2019](/files/BPA-FMAC19.png "Best Paper Award @ FMAC 2019")
 
 <!-- {{% callout note %}}
 Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.

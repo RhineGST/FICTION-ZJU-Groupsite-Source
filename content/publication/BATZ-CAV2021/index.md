@@ -50,7 +50,9 @@ tags:
 summary: ''
 
 links:
-  - name: "Artifact Evaluated"
+  - icon_pack: fas
+    icon: stamp
+    name: "Artifact Evaluated"
     url: "https://github.com/moves-rwth/kipro2"
 url_pdf: '/papers/CAV2021-b.pdf'
 url_code: ''

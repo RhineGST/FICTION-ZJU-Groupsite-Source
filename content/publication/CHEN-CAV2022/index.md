@@ -48,7 +48,9 @@ tags:
 summary: ''
 
 links:
-  - name: "Artifact Evaluated"
+  - icon_pack: fas
+    icon: stamp
+    name: "Artifact Evaluated"
     url: "https://github.com/LKlinke/Prodigy"
 url_pdf: '/papers/CAV2022.pdf'
 url_code: ''

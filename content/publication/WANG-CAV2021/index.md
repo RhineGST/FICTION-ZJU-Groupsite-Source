@@ -51,7 +51,9 @@ tags:
 summary: ''
 
 links:
-  - name: "Artifact Evaluated"
+  - icon_pack: fas
+    icon: stamp
+    name: "Artifact Evaluated"
     url: "https://github.com/Chenms404/BMI-DC"
 url_pdf: '/papers/CAV2021-a.pdf'
 url_code: ''

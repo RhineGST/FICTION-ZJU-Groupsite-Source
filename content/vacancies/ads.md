@@ -29,6 +29,8 @@ advanced:
   css_class: fullscreen
 ---
 
+We are constantly on the hunt of self-motivated **Postdocs**, **Ph.D./Master Students**, and **Research Assistants/Interns** to join our research group at ZJU.
+
 ## 导师简介
 
 陈明帅，研究员、博士生导师，入选浙江大学“新百人计划”、“启真学者”，将于2022年底入职浙江大学计算机科学与技术学院。2019年于中国科学院软件研究所获计算机软件与理论专业博士学位，同年获中国科学院院长特别奖，此后赴德国RWTH Aachen从事博士后研究工作，合作导师为欧洲科学院院士Joost-Pieter Katoen教授。主要研究方向为**程序语言**、**形式验证**、**数理逻辑**、**自动推理**等，在Inf. Compt.、IEEE Trans. Automat. Contr、CAV、TACAS、IJCAR、FM等多个顶级国际期刊或会议上发表学术论文20余篇，曾获ATVA 2018杰出论文奖、FMAC 2019最佳论文奖、Springer Nature计算机领域2020年中国学者1%高影响论文，同时任30余个国际期刊或会议的同行审稿人，并受邀在实时系统领域顶级国际会议RTSS 2020及ESWEEK 2022上做专题报告。研究成果被成功应用于国家探月二期工程“嫦娥”三号软着陆、CTCS-3高速铁路控制等国家重大工程中的控制软件正确性保障中。
@@ -66,3 +68,14 @@ advanced:
 **简历**投递至邮箱：<chenms@cs.rwth-aachen.de>
 
 此外，课题组长期招募相关方向**硕士/博士研究生**、**博士后**、**科研助理**、**本科实习生**等，请有意者与上述邮箱取得联系。
+
+## About Hangzhou
+
+As one of China's most renowned and prosperous cities for much of the last millennium, Hangzhou has been long recognized as the "[Paradise on Earth](https://en.wikipedia.org/wiki/Hangzhou#Ancient_proverbs_about_Hangzhou)" -- landmarked by [West Lake](https://en.wikipedia.org/wiki/West_Lake). It is a major economic and e-commerce hub within China, and in particular, a major city for scientific research in the Asia-Pacific, ranking [23rd](https://en.wikipedia.org/wiki/List_of_cities_by_scientific_output) globally by scientific outputs. Hangzhou tops the list of Chinese cities of opportunity, for instance, Hangzhou is home to the headquarters of large global tech companies such as Alibaba Group, Ant Group, and NetEase.
+
+<div style="position: relative">
+    <img src="/files/West-Lake.jpeg">
+    <span class="article-header-caption">Image credit: <a href="https://unsplash.com/" target="_blank" rel="noopener"><strong>Unsplash</strong></a></span>
+</div>
+
+<!-- ![West Lake](/files/West-Lake.jpeg "Image credit: [**Unsplash**](https://unsplash.com/)") -->

@@ -50,7 +50,9 @@ tags:
 summary: ''
 
 links:
-  - name: "Artifact Evaluated"
+  - icon_pack: fas
+    icon: stamp
+    name: "Artifact Evaluated"
     #link is missing
     url: "/publication/feng-cav2020/"
 url_pdf: '/papers/CAV2020.pdf'
