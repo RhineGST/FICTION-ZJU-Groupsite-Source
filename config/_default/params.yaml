@@ -18,7 +18,8 @@ marketing:
     site_type: Organization
     local_business_type: ''
     org_name: 'Formal Verification Group at Zhejiang University'
-    description: 'We develop formal reasoning techniques for programs and hybrid discrete-continuous systems for ensuring the reliability and effectiveness of safety-critical software systems while pushing the limits of automation as far as possible.'
+    #description: 'We develop formal reasoning techniques for programs and hybrid discrete-continuous systems for ensuring the reliability and effectiveness of safety-critical software systems while pushing the limits of automation as far as possible.'
+    description: ''
     twitter: 'wowchemy'
   analytics:
     google_analytics: ''
