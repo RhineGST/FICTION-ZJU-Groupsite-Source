@@ -19,8 +19,7 @@ marketing:
     local_business_type: ''
     #org_name: 'Formal Verification Group at Zhejiang University'
     org_name: ''
-    #description: 'We develop formal reasoning techniques for programs and hybrid discrete-continuous systems for ensuring the reliability and effectiveness of safety-critical software systems while pushing the limits of automation as far as possible.'
-    description: ''
+    description: 'The Formal Verification Group (FICTION), headed by Prof. Dr. Mingshuai Chen, is a research unit embedded in the College of Computer Science and Technology at Zhejiang University, Hangzhou, China. We develop formal reasoning techniques for programs and hybrid discrete-continuous systems for ensuring the reliability and effectiveness of safety-critical software systems while pushing the limits of automation as far as possible.'
     twitter: 'wowchemy'
   analytics:
     google_analytics: ''
