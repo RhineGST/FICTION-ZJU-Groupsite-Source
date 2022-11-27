@@ -54,6 +54,10 @@ links:
     icon: stamp
     name: "Artifact Evaluated"
     url: "https://github.com/moves-rwth/kipro2"
+  - icon_pack: fas
+    icon: rocket
+    name: "Pulp Fiction"
+    url: "/pulp/21-04-18-pulp-k-induction/"
 url_pdf: '/papers/CAV2021-b.pdf'
 url_code: ''
 url_dataset: ''

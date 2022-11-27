@@ -55,6 +55,10 @@ links:
     name: "Artifact Evaluated"
     #link is missing
     url: "/publication/feng-cav2020/"
+  - icon_pack: fas
+    icon: rocket
+    name: "Pulp Fiction"
+    url: "/pulp/20-06-04-pulp-sdes/"
 url_pdf: '/papers/CAV2020.pdf'
 url_code: ''
 url_dataset: ''
@@ -68,7 +72,7 @@ url_video: 'https://www.youtube.com/watch?v=vFjaz-k_f3Y&t=29s'
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ''
+  caption: 'Image credit: [**Freepik**](https://www.freepik.com/)'
   focal_point: ''
   preview_only: false
 
