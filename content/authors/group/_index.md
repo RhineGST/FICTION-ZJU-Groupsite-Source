@@ -50,4 +50,6 @@ The Formal Verification Group (FICTION), headed by Prof. Dr. [Mingshuai Chen](/a
 
 We are constantly on the hunt of self-motivated Postdocs, Ph.D./Master Students, and Research Assistants/Interns to join our group at ZJU. Check out the [open positions](/vacancies/) in case you are interested.
 
-<i class="fa-solid fa-triangle-exclamation"></i> This site is currently under construction.
+FICTION (/ˈfɪkʃn/) refers to any creative work that may deviate from plausibility.
+
+<!-- <i class="fa-solid fa-triangle-exclamation"></i> This site is currently under construction. -->

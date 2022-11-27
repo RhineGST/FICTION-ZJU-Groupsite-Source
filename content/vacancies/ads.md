@@ -32,6 +32,28 @@ advanced:
 We are constantly on the hunt of self-motivated **Postdocs**, **Ph.D./Master Students**, and **Research Assistants/Interns** to join our research group at ZJU.
 
 
+## About Hangzhou
+
+As one of China's most renowned and prosperous cities for much of the last millennium, Hangzhou has been long recognized as the "[Paradise on Earth](https://en.wikipedia.org/wiki/Hangzhou#Ancient_proverbs_about_Hangzhou)" -- landmarked by [West Lake](https://en.wikipedia.org/wiki/West_Lake). It is a major economic and e-commerce hub within China, and in particular, a major city for scientific research in the Asia-Pacific, ranking [23rd](https://en.wikipedia.org/wiki/List_of_cities_by_scientific_output) globally by scientific outputs. Hangzhou tops the list of Chinese cities of opportunity, for instance, Hangzhou is home to the headquarters of large global tech companies such as Alibaba Group, Ant Group, and NetEase.
+
+<div style="position: relative">
+    <img src="/files/West-Lake.jpeg">
+    <span class="article-header-caption">Image credit: <a href="https://unsplash.com/" target="_blank" rel="noopener"><strong>Unsplash</strong></a></span>
+</div>
+
+<!-- ![West Lake](/files/West-Lake.jpeg "Image credit: [**Unsplash**](https://unsplash.com/)") -->
+
+
+## About Zhejiang University
+
+As a member of the prestigious [C9 League](https://en.wikipedia.org/wiki/C9_League), Zhejiang University (founded as Qiushi Academy in 1897) is consistently ranked among the top 5 academic institutions in mainland China. As of 2022, the [QS World University Rankings](https://en.wikipedia.org/wiki/QS_World_University_Rankings) ranked Zhejiang University 42nd in the world and 5th in Asia. The ZJU College of Computer Science and Technology is committed to cultivating top-notch talents in computer science with cross-disciplinary innovation capabilities and global vision. The subjects it offers -- Computer Science and Technology, and Software Engineering -- are both rated A+ (2%, China University Subject Rankings).
+
+<div style="position: relative">
+    <img src="/files/ZJU.jpeg">
+    <span class="article-header-caption">Image credit: <a href="https://www.zju.edu.cn/english/" target="_blank" rel="noopener"><strong>ZJU (Junjie Gao)</strong></a></span>
+</div>
+
+
 ## About the advisor
 
 Prof. Dr. {{% mention "Mingshuai Chen" %}} is a ZJU100 Young Professor leading the [Formal Verification Group](https://fiction-zju.github.io/) at Zhejiang University. Prior to joining ZJU, he worked as a Postdoctoral Researcher at RWTH Aachen University and a Visiting Researcher at University of Oldenburg, both in Germany. He received the Ph.D. degree in computer science from the Institute of Software, Chinese Academy of Sciences in 2019. His primary research interest lies in formal verification and synthesis, broadly construed in mathematical logic and theoretical computer science.
@@ -60,7 +82,7 @@ Our research group aims to develop **formal reasoning techniques** for programs 
 
 ## What do we expect?
 
-* Solid background in computer science, mathematics, control theory, software theory, or related areas. Knowledge in the following lectures is preferred:
+* Solid background in computer science, mathematics, software, control theory, or related areas. Knowledge in (a subset of) the following lectures is preferred:
   - Undergraduate level: Automata Theory, Compiler Construction, Programming Languages, Differential Equations, and Discrete Mathematics.
   - Graduate level: Mathematical Logic, Theory of Computation/Programming, Program Analysis/Verification, Formal Semantics, Model Checking, SAT/SMT Solving, Theorem Proving, Decision Procedures, Computer Algebra, Symbolic Computation, Game Theory, and Process Algebra.
   - Mathematics and Control: Algebra, Optimization, Probability Theory, Stochastic Processes, Differential Geometry, and Optimal Control.
@@ -68,32 +90,15 @@ Our research group aims to develop **formal reasoning techniques** for programs 
 * Research experience in the above-mentioned topics is a plus, yet not a requisite (except for Postdoc applicants).
 
 
-## Advising and teaching style
+## What you can expect?
 
-Our overall goal of teaching and advising is to assist the students in developing interests and independent, critical thinking skills for approaching fundamental principles in theoretical computer science. We position ourselves as coaches and co-learners in an inclusive community consisting of the supervisor, the students, the colleagues, and the world around us.
+Our overall goal of teaching and advising is to assist the students in developing interests and independent, critical thinking skills for approaching fundamental principles in theoretical computer science. We position ourselves as coaches and co-learners in an inclusive community consisting of the supervisor, the students, the colleagues, and the world around us. <i class="fa-solid fa-download"></i> Check out Mingshuai Chen's [teaching statement](/files/Teaching%20Statement_Mingshuai%20Chen.pdf) for more details.
 
-* **Research:** We are committed to providing students with a pure scientific research environment. The supervisor is deeply involved in the student's full-cycle research work ranging from literature review, topic assessment, effort allocation, theory development, paper writing, to result presentation. We provide regular seminars to keep track of cutting-edge research outcomes. We constantly enjoy assisting students to develop their immature, yet creative ideas into solid research results (which we took more like collaborations than mentor-and-mentees). As an example, one of our mentees had co-authored two CAV papers already by the first two years of his graduate program.
+* **Research:** We are committed to providing students with a pure, free scientific research environment. The supervisor is deeply involved in the student's full-cycle research work ranging from literature review, topic assessment, effort allocation, theory development, paper writing, to result presentation. We provide regular seminars to keep track of cutting-edge research outcomes. We constantly enjoy assisting students to develop their immature, yet creative ideas into solid research results (which we took more like collaborations than mentor-and-mentees). As an example, one of our mentees had co-authored two CAV papers already by the first two years of his graduate program.
 * **Collaborations and Exchange:** We have been -- and will continue to be -- working on the aforementioned research topics in extensive collaborations with international research groups at, e.g., RWTH Aachen, Saarland, and Oldenburg in Germany; MIT, UNM, and CU Boulder in the US; DTU in Denmark; Radboud in the Netherlands; NTU in Singapore; ISCAS and PKU in China. We are keen to offer every Ph.D. student the opportunity of short/long-term exchange programs with one or more of these groups.
 * **Wages**: We got sufficient funding to offer competitive packages!
 
 
 ## How to apply?
 
-Drop us an [**email**](mailto:chenms@cs.rwth-aachen.de) that encloses your **CV** and **transcripts**. Note that the Ph.D. position starting in September, 2023 has been closed.
-
-
-## About Hangzhou
-
-As one of China's most renowned and prosperous cities for much of the last millennium, Hangzhou has been long recognized as the "[Paradise on Earth](https://en.wikipedia.org/wiki/Hangzhou#Ancient_proverbs_about_Hangzhou)" -- landmarked by [West Lake](https://en.wikipedia.org/wiki/West_Lake). It is a major economic and e-commerce hub within China, and in particular, a major city for scientific research in the Asia-Pacific, ranking [23rd](https://en.wikipedia.org/wiki/List_of_cities_by_scientific_output) globally by scientific outputs. Hangzhou tops the list of Chinese cities of opportunity, for instance, Hangzhou is home to the headquarters of large global tech companies such as Alibaba Group, Ant Group, and NetEase.
-
-<div style="position: relative">
-    <img src="/files/West-Lake.jpeg">
-    <span class="article-header-caption">Image credit: <a href="https://unsplash.com/" target="_blank" rel="noopener"><strong>Unsplash</strong></a></span>
-</div>
-
-<!-- ![West Lake](/files/West-Lake.jpeg "Image credit: [**Unsplash**](https://unsplash.com/)") -->
-
-
-## About Zhejiang University
-
-TBA.
+<i class="fa-solid fa-envelope"></i> Drop us an [**email**](mailto:chenms@cs.rwth-aachen.de) indicating the position(s) you are interested in while enclosing your **CV** and **transcripts**. Note that the Ph.D. position starting in September, 2023 has been closed.
