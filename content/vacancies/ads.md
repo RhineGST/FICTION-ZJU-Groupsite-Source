@@ -65,7 +65,7 @@ Mingshuai Chen has published over twenty peer-reviewed papers at flagship journa
 
 ## Research topics
 
-Our research group aims to develop **formal reasoning techniques** for programs and hybrid discrete-continuous systems for ensuring the reliability and effectiveness of safety-critical software systems while pushing the limits of **automation** as far as possible. In general, we are interested in [**formal methods**](https://link.springer.com/chapter/10.1007/978-3-319-06410-9_4)[^1] -- the rigorous mathematical basis of computer science. Concrete research directions include (yet not limited to):
+Our research group aims to develop **formal reasoning techniques** for programs and hybrid discrete-continuous systems for ensuring the reliability and effectiveness of safety-critical software systems while pushing the limits of **automation** as far as possible. In general, we are interested in [**formal methods**](https://link.springer.com/chapter/10.1007/978-3-319-06410-9_4)[^note-FM] -- the rigorous mathematical basis of computer science. Concrete research directions include (yet not limited to):
 
 * **Logical Aspects of Computer Science**
 * **Formal Verification and Synthesis**
@@ -77,7 +77,7 @@ Our research group aims to develop **formal reasoning techniques** for programs 
 
 <i class="fa-solid fa-download"></i> Check out Mingshuai Chen's [research statement](/files/Research%20Statement_Mingshuai%20Chen.pdf) for more details on these directions.
 
-[^1]: Formal methods have long been at the heart of computer science; there are 12 [Turing Award Recipients](https://en.wikipedia.org/wiki/Turing_Award#Recipients) -- the most amongst all the sub-fields of computer science.
+[^note-FM]: Formal methods have long been at the heart of computer science; there are 12 [Turing Award Recipients](https://en.wikipedia.org/wiki/Turing_Award#Recipients) -- the most amongst all the sub-fields of computer science.
 
 
 ## What do we expect?
