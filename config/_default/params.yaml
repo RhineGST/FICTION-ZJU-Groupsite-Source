@@ -104,7 +104,6 @@ features:
     #   3: OpenStreetMap (Mapbox)
     provider: 'mapnik'
     api_key: ''
-    #api_key: 'AIzaSyBi2Tp8zuitnldcHQAMy9693EfnECFHdH4'
     zoom: 15
 
 # Extensions
