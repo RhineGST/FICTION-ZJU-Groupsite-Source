@@ -17,13 +17,13 @@ subtitle = ""
   page_type = "publication"
 
   # Choose how much pages you would like to display (0 = all pages)
-  count = 0
+  count = 10
 
   # Page order. Descending (desc) or ascending (asc) date.
   order = "desc"
 
   # Show a "See all pages" link underneath the featured content?
-  link_to_archive = false
+  link_to_archive = true
 
   # Filter posts by a taxonomy term.
   [content.filters]
