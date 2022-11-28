@@ -89,7 +89,7 @@ social:
     link: https://cn.linkedin.com/pub/mingshuai-chen/aa/838/481
 ---
 
-I am a US-equivalent tenure-track Assistant Professor leading the Formal Verification Group at Zhejiang University. Prior to joining ZJU, I worked as a Postdoctoral Researcher at the Software Modeling and Verification Group headed by Prof. Joost-Pieter Katoen at RWTH Aachen University. In 2019, I received the Ph.D. degree in computer science from the Institute of Software, Chinese Academy of Sciences under the supervision of Prof. Naijun Zhan and co-supervision of Prof. Martin Fränzle.
+I am a US-equivalent tenure-track Assistant Professor leading the [Formal Verification Group](/) at Zhejiang University. Prior to joining ZJU, I worked as a Postdoctoral Researcher at the Software Modeling and Verification Group headed by Prof. Joost-Pieter Katoen at RWTH Aachen University. In 2019, I received the Ph.D. degree in computer science from the Institute of Software, Chinese Academy of Sciences under the supervision of Prof. Naijun Zhan and co-supervision of Prof. Martin Fränzle.
 
 My primary research interest lies in formal verification and synthesis, broadly construed in mathematical logic and theoretical computer science. I develop formal reasoning techniques for programs and hybrid discrete-continuous systems for ensuring the reliability and effectiveness of safety-critical software systems while pushing the limits of automation as far as possible. I appreciate -- and have been constantly fascinated by -- the elegance of mathematical aspects of computer science as well as its impact on real-world applications. See the [research statement](/files/Research%20Statement_Mingshuai%20Chen.pdf) for my faculty application at ZJU.
 

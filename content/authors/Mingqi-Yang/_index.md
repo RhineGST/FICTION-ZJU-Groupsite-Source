@@ -67,4 +67,4 @@ social:
     link: mailto:yanglangbd@163.com
 ---
 
-I am currently in the final year of my undergraduate study working on my Bachelor's thesis. My research interest falls in the intersection of mathematics and computer science. I Will join the group presumably in September, 2023 as a Ph.D. student.
+I am currently in the final year of my undergraduate study working on my Bachelor's thesis. My research interest falls in the intersection of mathematics and computer science. I Will join the [Formal Verification Group](/) presumably in September, 2023 as a Ph.D. student.
