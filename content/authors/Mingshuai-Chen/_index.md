@@ -93,6 +93,4 @@ I am a US-equivalent tenure-track Assistant Professor leading the [Formal Verifi
 
 My primary research interest lies in formal verification and synthesis, broadly construed in mathematical logic and theoretical computer science. I develop formal reasoning techniques for programs and hybrid discrete-continuous systems for ensuring the reliability and effectiveness of safety-critical software systems while pushing the limits of automation as far as possible. I appreciate -- and have been constantly fascinated by -- the elegance of mathematical aspects of computer science as well as its impact on real-world applications. See the [research statement](/files/Research%20Statement_Mingshuai%20Chen.pdf) for my faculty application at ZJU.
 
-<!-- Mingshuai Chen has published over twenty peer-reviewed papers at flagship journals/conferences including Inf. Comput., IEEE Trans. Automat. Contr., Acta Inform., CAV, TACAS, IJGAR/CADE, FM, etc. He serves in the reviewer panel of AMS Mathematical Reviews and the program/repeatability committees of SYNASC 2022, RTCSA 2021, VMCAI 2021, ADHS 2021, etc. He was the awardee of the Distinguished Paper Award at ATVA 2018, Best Paper Award at FMAC 2019, and the CAS-President Special Award in 2019. -->
-
 <i class="fa-solid fa-download"></i> Check out my [CV](/files/CV_Mingshuai%20Chen.pdf) for more detailed information.

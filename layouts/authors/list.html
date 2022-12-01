@@ -3,6 +3,156 @@
 {{/* Author profile page. */}}
 
 {{/* If an account has not been created for this user, just display their name as the title. */}}
+{{ if not .File }}
+<div class="universal-wrapper pt-3">
+  <h1>{{ .Title }}</h1>
+</div>
+{{ end }}
+
+<section id="profile-page" class="pt-5">
+  <div class="container">
+    {{/* Show the About widget if an account exists for this user. */}}
+    {{ if .File }}
+      {{ $widget := "widgets/about.html" }}
+      {{ $username := (path.Base (path.Split .Path).Dir) }}{{/* Alternatively, use `index .Params.authors 0` */}}
+      {{ $params := dict "root" $ "page" . "author" $username }}
+      {{ partial $widget $params }}
+    {{end}}
+
+    {{ $query1 := where (where .Pages ".IsNode" false) ".Type" "publication" }}
+
+    {{ $col_conference := slice }}
+    {{ $col_journal := slice }}
+    {{ $col_preprint := slice }}
+    {{ $col_report := slice }}
+    {{ $col_book := slice }}
+    {{ $col_chapter := slice }}
+    {{ $col_thesis := slice }}
+    {{ $col_patent := slice }}
+
+    {{ range $item := $query1 }}
+      {{with (index .Params.publication_types 0) }}
+        {{ if eq . "1" }}
+          {{ $col_conference = $col_conference | append $item }}
+        {{ else if eq . "2" }}
+          {{ $col_journal = $col_journal | append $item }}
+        {{ else if eq . "3" }}
+          {{ $col_preprint = $col_preprint | append $item }}
+        {{ else if eq . "4" }}
+          {{ $col_report = $col_report | append $item }}
+        {{ else if eq . "5" }}
+          {{ $col_book = $col_book | append $item }}
+        {{ else if eq . "6" }}
+          {{ $col_chapter = $col_chapter | append $item }}
+        {{ else if eq . "7" }}
+          {{ $col_thesis = $col_thesis | append $item }}
+        {{ else if eq . "8" }}
+          {{ $col_patent = $col_patent | append $item }}
+        {{ end }}
+      {{end}}
+    {{ end }}
+
+    <div class="article-widget">
+    {{ if .File }}
+      <h3>Publications</h3>
+    {{ else }}
+      <h3>Publications with FICTION</h3>
+    {{ end }}
+
+    {{ if (len $col_book) }}
+      <div class="hr-light"></div>
+      <h4>Books</h4>
+      <ol>
+        {{ range $col_book }}
+          <li>{{ partial "li_citation" . }}</li>
+        {{ end }}
+      </ol>
+    {{ end }}
+
+    {{ if (len $col_thesis) }}
+      <div class="hr-light"></div>
+      <h4>Dissertation</h4>
+      <ol>
+        {{ range $col_thesis }}
+          <li>{{ partial "li_citation" . }}</li>
+        {{ end }}
+      </ol>
+    {{ end }}
+
+    {{ if (len $col_chapter) }}
+      <div class="hr-light"></div>
+      <h4>Book Chapters</h4>
+      <ol>
+        {{ range $col_chapter }}
+          <li>{{ partial "li_citation" . }}</li>
+        {{ end }}
+      </ol>
+    {{ end }}
+
+    {{ if (len $col_journal) }}
+      <div class="hr-light"></div>
+      <h4>Journal Articles</h4>
+      <ol>
+        {{ range $col_journal }}
+          <li>{{ partial "li_citation" . }}</li>
+        {{ end }}
+      </ol>
+    </div>
+    {{ end }}
+
+    {{ if (len $col_conference) }}
+      <div class="hr-light"></div>
+      <h4>Conference Papers</h4>
+      <ol>
+        {{ range $col_conference }}
+          <li>{{ partial "li_citation" . }}</li>
+        {{ end }}
+      </ol>
+    {{ end }}
+
+    {{ if (len $col_report) }}
+      <div class="hr-light"></div>
+      <h4>Technical Reports</h4>
+      <ol>
+        {{ range $col_report }}
+          <li>{{ partial "li_citation" . }}</li>
+        {{ end }}
+      </ol>
+    {{ end }}
+
+    {{ if (len $col_preprint) }}
+      <div class="hr-light"></div>
+      <h4>Preprints</h4>
+      <ol>
+        {{ range $col_preprint }}
+          <li>{{ partial "li_citation" . }}</li>
+        {{ end }}
+      </ol>
+    {{ end }}
+
+    {{ if (len $col_patent) }}
+      <div class="hr-light"></div>
+      <h4>Patents</h4>
+      <ol>
+        {{ range $col_patent }}
+          <li>{{ partial "li_citation" . }}</li>
+        {{ end }}
+      </ol>
+    {{ end }}
+  </div>
+</section>
+
+
+<!-- *********************************************************************
+     * IMPORTANT: to uncomment section
+     *            sub inner comments "~~" -> "--" & remove this comment
+     *********************************************************************
+
+<!~~ Old: to display only a list of titles in author pages ~~>
+
+{{/* Author profile page. */}}
+
+{{/* If an account has not been created for this user, just display their name as the title. */}}
 
 {{/* This list is a list of author 'stubs' which should re-direct */}}
 {{$redirectsFrom := slice "Jeanet Mante" "Chris J. Myers" "Chris J Myers"}}
@@ -77,12 +227,12 @@
       <div class="article-widget content-widget-hr">
         <h3>Publications</h3>
         {{$research_area := .Scratch.Get "research_area"}}
-        <!-- If a research area then get latest publications based on tags -->
+        <!~~ If a research area then get latest publications based on tags ~~>
         {{if in (slice "True") $research_area}}
-          <!-- Untoggle the three lines of code below to see all possible tags to work with -->
-          <!-- {{ range site.Taxonomies.tags }}
+          <!~~ Untoggle the three lines of code below to see all possible tags to work with ~~>
+          <!~~ {{ range site.Taxonomies.tags }}
           <li><a href="{{.Page.RelPermalink}}">{{.Page.Title}}</a></li>
-          {{ end }} -->
+          {{ end }} ~~>
           {{ range $query }}
             {{$intersects := intersect $research_tags .Params.tags}}
             {{$intersect_count := len $intersects}}
@@ -92,7 +242,7 @@
               </li>
             {{ end}}
           {{ end }}
-        <!-- Otherwise use author publications -->
+        <!~~ Otherwise use author publications ~~>
         {{else}}
         <ul>
           {{ range $query }}
@@ -117,7 +267,8 @@
 
         {{ if $count }}
         <div class="article-widget content-widget-hr">
-          <h3>{{ i18n "user_profile_latest" | default "Latest" }}</h3>
+          <!~~ <h3>{{ i18n "user_profile_latest" | default "Latest" }}</h3> ~~>
+          <h3>Publications with FICTION</h3>
           <ul>
             {{ range $query }}
                 <li>
@@ -130,5 +281,12 @@
     {{end}}
   </div>
 </section>
+
+*********************************************************************
+* IMPORTANT: to uncomment section
+*            sub inner comments "~~" -> "--" & remove this comment
+*********************************************************************
+-->
+
 
 {{- end -}}

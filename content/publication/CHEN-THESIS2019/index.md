@@ -43,9 +43,11 @@ tags:
 # Summary. An optional shortened abstract.
 summary: ''
 
-# links:
-# - name: ""
-#   url: ""
+links:
+  - icon_pack: fas
+    icon: certificate
+    name: "CAS-President Special Award"
+    url: "/files/CAS-President-SA.png"
 url_pdf: ''
 url_code: ''
 url_dataset: ''
@@ -77,7 +79,7 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides:
 ---
-![CAS-President Special Award](/files/CAS-President-SA.png "CAS-President Special Award")
+<!-- ![CAS-President Special Award](/files/CAS-President-SA.png "CAS-President Special Award") -->
 
 <!-- {{% callout note %}}
 Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
