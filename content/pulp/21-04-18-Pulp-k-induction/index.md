@@ -18,4 +18,4 @@ image:
 
 <!--more-->
 
-A [blog post](https://mp.weixin.qq.com/s/Kc3OGwSf0yUvtnDDO5rAjA) for [this publication](/publication/batz-cav2021/) (in Chinese).
+A [blog post](https://mp.weixin.qq.com/s/Kc3OGwSf0yUvtnDDO5rAjA) (in Chinese) for [this publication](/publication/batz-cav2021/).

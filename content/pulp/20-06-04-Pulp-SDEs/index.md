@@ -18,4 +18,4 @@ image:
 
 <!--more-->
 
-A [blog post](https://mp.weixin.qq.com/s/pdGlYIHiywD7sdkEDsG9AQ) for [this publication](/publication/feng-cav2020/) (in Chinese).
+A [blog post](https://mp.weixin.qq.com/s/pdGlYIHiywD7sdkEDsG9AQ) (in Chinese) for [this publication](/publication/feng-cav2020/).
