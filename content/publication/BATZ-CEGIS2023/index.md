@@ -2,7 +2,7 @@
 title: 'Probabilistic Program Verification via Inductive Synthesis of Inductive Invariants'
 subtitle: ''
 
-featured: false
+featured: true
 draft: false
 
 authors:
@@ -17,12 +17,12 @@ authors:
 #  - 'Equal contribution'
 
 #to be updated
-date: '2022-05-12T00:00:00Z'
+date: '2023-04-22T00:00:00Z'
 #date: '2015-09-01T00:00:00Z'
 #lastmod: 2021-10-07T18:49:05-06:00
 
 #to be updated
-doi: '10.48550/ARXIV.2205.06152'
+doi: ''
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2017-01-01T00:00:00Z'
@@ -31,11 +31,11 @@ publishDate: '2017-01-01T00:00:00Z'
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['3']
+publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: '*arXiv*, abs/2205.06152'
-publication_short: '*arXiv*'
+publication: In *TACAS 2023*
+publication_short: In *TACAS 2023*
 
 abstract: "Essential tasks for the verification of probabilistic programs include bounding expected outcomes and proving termination in finite expected runtime. We contribute a simple yet effective *inductive synthesis* approach for proving such *quantitative reachability properties* by generating *inductive invariants* on *source-code level*. Our implementation shows promise: It finds invariants for (in)finite-state programs, can beat state-of-the-art probabilistic model checkers, and is competitive with modern tools dedicated to invariant synthesis and expected runtime reasoning."
 
