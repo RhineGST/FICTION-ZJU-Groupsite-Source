@@ -55,7 +55,7 @@ summary: ''
 # links:
 # - name: ""
 #   url: ""
-url_pdf: 'https://arxiv.org/pdf/2205.06152.pdf'
+url_pdf: '/papers/TACAS2023_FULL.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
