@@ -17,7 +17,7 @@ subtitle = ""
   page_type = "publication"
 
   # Choose how much pages you would like to display (0 = all pages)
-  count = 11
+  count = 12
 
   # Page order. Descending (desc) or ascending (asc) date.
   order = "desc"
