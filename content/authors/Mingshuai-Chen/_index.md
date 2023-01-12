@@ -66,6 +66,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: mailto:m.chen@zju.edu.cn
+  - icon: building-columns
+    icon_pack: fas
+    link: https://person.zju.edu.cn/en/chenms
   - icon: dblp
     icon_pack: ai
     link: https://dblp.org/pid/169/1207
