@@ -40,7 +40,7 @@ content:
   coordinates:
     latitude: '30.259995239192605'
     longitude: '120.1218799151604'
-  directions: CaoGuangBiao Building, Yuquan Campus
+  directions: Chao Kuang Piu Building, Yuquan Campus
   #office_hours:
   #  - 'Monday 10:00 to 13:00'
   #  - 'Wednesday 09:00 to 10:00'
@@ -52,7 +52,7 @@ content:
       link: https://github.com/FICTION-ZJU
     - icon: video
       icon_pack: fas
-      name: Zoom Me
+      name: Zoom Us
       link: 'https://rwth.zoom.us/my/m.chen'
 
 design:
