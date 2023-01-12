@@ -101,4 +101,4 @@ Our overall goal of teaching and advising is to assist the students in developin
 
 ## How to apply?
 
-<i class="fa-solid fa-envelope"></i> Drop us an [**email**](mailto:chenms@cs.rwth-aachen.de) indicating the position(s) you are interested in while enclosing your **CV** and **transcripts**. Note that the Ph.D. position starting in September, 2023 has been closed.
+<i class="fa-solid fa-envelope"></i> Drop us an [**email**](mailto:m.chen@zju.edu.cn) indicating the position(s) you are interested in while enclosing your **CV** and **transcripts**. Note that the Ph.D. position starting in September, 2023 has been closed.

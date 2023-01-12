@@ -18,7 +18,7 @@ organizations:
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:chenms@cs.rwth-aachen.de
+    link: mailto:m.chen@zju.edu.cn
   - icon: building-columns
     icon_pack: fas
     link: http://www.en.cs.zju.edu.cn/

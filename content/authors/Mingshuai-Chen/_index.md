@@ -65,7 +65,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:chenms@cs.rwth-aachen.de
+    link: mailto:m.chen@zju.edu.cn
   - icon: dblp
     icon_pack: ai
     link: https://dblp.org/pid/169/1207
