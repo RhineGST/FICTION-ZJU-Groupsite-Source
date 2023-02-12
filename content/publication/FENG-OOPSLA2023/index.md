@@ -7,8 +7,8 @@ draft: false
 
 authors:
   - Shenghua Feng
-  - Han Su
   - Mingshuai Chen
+  - Han Su
   - Benjamin Lucien Kaminski
   - Joost-Pieter Katoen
   - Naijun Zhan
