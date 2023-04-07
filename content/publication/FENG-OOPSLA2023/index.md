@@ -16,7 +16,7 @@ authors:
 #  - 'Equal contribution'
 #  - 'Equal contribution'
 
-date: '2023-10-23T00:00:00Z'
+date: '2023-04-06T00:00:00Z'
 #lastmod: 2021-10-07T18:49:05-06:00
 
 doi: ''
@@ -31,8 +31,8 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Proc. ACM Program. Lang., (OOPSLA)*
-publication_short: In *Proc. ACM Program. Lang., (OOPSLA)*
+publication: *Proc. ACM Program. Lang., 7(OOPSLA1)*
+publication_short: *Proc. ACM Program. Lang. (OOPSLA)*
 
 abstract: We present a new proof rule for verifying lower bounds on quantities of probabilistic programs. Our proof rule is not confined to almost-surely terminating programs -- as is the case for existing rules -- and can be used to establish non-trivial lower bounds on, e.g., termination probabilities and expected values, for possibly *divergent* probabilistic loops, e.g., the well-known three-dimensional random walk on a lattice.
 
@@ -53,7 +53,7 @@ summary: ''
 # links:
 # - name: ""
 #   url: ""
-url_pdf: '/papers/OOPSLA2023_FULL.pdf'
+url_pdf: '/papers/OOPSLA2023.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
