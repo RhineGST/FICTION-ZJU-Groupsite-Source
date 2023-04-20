@@ -28,7 +28,7 @@ user_groups:
   # - Intern Alumni
 
 #department:
-    #- College of Computer Science and Technology
+  #- College of Computer Science and Technology
 
 # Organizations/Affiliations
 organizations:

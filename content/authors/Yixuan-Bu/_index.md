@@ -27,13 +27,13 @@ user_groups:
   - Interns
   # - Intern Alumni
 
-  department:
-    - College of Computer Science and Technology
+department:
+  - College of Computer Science and Technology
 
-  # Organizations/Affiliations
-  organizations:
-    - name: Zhejiang University
-      url: ""
+# Organizations/Affiliations
+organizations:
+  - name: Zhejiang University
+    url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interest lies in automated formal synthesis of loopy probabilistic programs.
