@@ -31,16 +31,16 @@ content:
   # email: test@example.org
   # phone: 888 888 88 88
   address:
-    street: Zheda Road 38
+    street: Wensan Road 232
     city: Hangzhou
     region: Zhejiang
-    postcode: '310027'
+    postcode: '310012'
     country: China
     country_code: CN
   coordinates:
-    latitude: '30.259995239192605'
-    longitude: '120.1218799151604'
-  directions: Chao Kuang Piu Building, Yuquan Campus
+    latitude: '30.27969768121209'
+    longitude: '120.13787503932599'
+  directions: Room 510, East Building, North Park, Xixi Campus
   #office_hours:
   #  - 'Monday 10:00 to 13:00'
   #  - 'Wednesday 09:00 to 10:00'
