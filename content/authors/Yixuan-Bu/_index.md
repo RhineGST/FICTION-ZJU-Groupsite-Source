@@ -64,4 +64,4 @@ social:
     link: mailto:yixuanbu@zju.edu.cn
 ---
 
-TBA.
+I am enrolled in an intern program at the [Formal Verification Group](/) under the supervision of Dr. Mingshuai Chen. Together with colleagues from ISCAS, we work on automated inductive and/or deductive approaches to synthesizing (possibly infinite-state) loopy probabilistic programs encoding randomized algorithms.
