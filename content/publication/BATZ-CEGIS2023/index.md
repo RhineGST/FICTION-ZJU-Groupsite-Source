@@ -16,13 +16,11 @@ authors:
 #  - 'Equal contribution'
 #  - 'Equal contribution'
 
-#to be updated
-date: '2023-04-22T00:00:00Z'
+date: '2023-04-20T00:00:00Z'
 #date: '2015-09-01T00:00:00Z'
 #lastmod: 2021-10-07T18:49:05-06:00
 
-#to be updated
-doi: ''
+doi: '10.1007/978-3-031-30820-8_25'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2017-01-01T00:00:00Z'
@@ -52,10 +50,12 @@ tags:
 # Summary. An optional shortened abstract.
 summary: ''
 
-# links:
-# - name: ""
-#   url: ""
-url_pdf: '/papers/TACAS2023_FULL.pdf'
+links:
+  - icon_pack: fas
+    icon: stamp
+    name: "Artifact Evaluated"
+    url: "https://github.com/moves-rwth/cegispro2"
+url_pdf: '/papers/TACAS2023.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
