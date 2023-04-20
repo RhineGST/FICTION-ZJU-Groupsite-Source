@@ -38,8 +38,8 @@ content:
     country: China
     country_code: CN
   coordinates:
-    latitude: '30.27969768121209'
-    longitude: '120.13787503932599'
+    latitude: '30.28141'
+    longitude: '120.13303'
   directions: Room 510, East Building, North Park, Xixi Campus
   #office_hours:
   #  - 'Monday 10:00 to 13:00'
