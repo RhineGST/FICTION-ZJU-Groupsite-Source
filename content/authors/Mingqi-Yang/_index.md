@@ -27,7 +27,7 @@ user_groups:
   - Ph.D. Students
 
 department:
-    - College of Computer Science and Technology
+  - College of Computer Science and Technology
 
 # Organizations/Affiliations
 organizations:
