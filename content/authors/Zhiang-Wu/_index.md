@@ -27,8 +27,8 @@ user_groups:
   - Interns
   # - Intern Alumni
 
-#department:
-  #- College of Computer Science and Technology
+department:
+  - Hong Kong University of Science and Technology
 
 # Organizations/Affiliations
 organizations:
