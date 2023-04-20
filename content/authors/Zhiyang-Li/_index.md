@@ -1,30 +1,30 @@
 ---
 # Display name
-title: Mingqi Yang
+title: Zhiyang Li
 
 # Username (this should match the folder name)
 authors:
-  - Mingqi-Yang
+  - Zhiyang-Li
 
 #Author Names (alternative spellings etc)
 names:
-  - Mingqi Yang
-  - Yang, Mingqi
-  - M. Yang
-  - Yang, M.
-  - 杨明奇
+  - Zhiyang Li
+  - Li, Zhiyang
+  - Z. Li
+  - Li, Z.
+  - 李志阳
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Ph.D. Candidate
+role: M.Sc. Candidate
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - Researchers
-  - Ph.D. Students
+  - Master Students
 
 department:
   - College of Computer Science and Technology
@@ -46,25 +46,25 @@ highlight_name: false
 # The subheadings, such as Interests and Education, will automatically translate depending on the language chosen in `config.yaml`. To customize the subheading text, see the Language page in the docs.
 
 interests:
-  - Verification Meets AI
-  - Probabilistic Systems
   - Quantitative Reasoning
+  - Verification and Synthesis
+  - Probabilistic/Quantum Systems
   - Programming Theory/Languages
 
 
 education:
   courses:
-    - course: Ph.D. in Computer Science
+    - course: M.Sc. in Software Engineering
       institution: Zhejiang University
       year: To be enrolled
-    - course: B.Sc. in Information and Computation
-      institution: Wuhan University of Technology
+    - course: B.Sc. in Computer Science (Chu Kochen Honors College)
+      institution: Zhejiang University
       year: 2023
 
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:yanglangbd@163.com
+    link: mailto:3190105480@zju.edu.cn
 ---
 
-I am currently in the final year of my undergraduate study working on my Bachelor's thesis. My research interest falls in the intersection of mathematics and computer science. I Will join the [Formal Verification Group](/) presumably in September, 2023 as a Ph.D. student.
+I am currently in the final year of my graduate study working on my Bachelor's thesis. My research interest falls in the intersection of mathematics and computer science. I Will join the [Formal Verification Group](/) presumably in September, 2023 as a Master student.
