@@ -65,6 +65,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: mailto:misakalzy@zju.edu.cn
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/meowConflict
 ---
 
 I am currently a Master student at the [Formal Verification Group](/) where my research interest falls in the intersection of mathematics and computer science. I develop formal techniques for verifying possibly noisy quantum programs against properties like robustness, safety, and privacy.
