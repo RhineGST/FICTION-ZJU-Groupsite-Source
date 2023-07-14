@@ -18,14 +18,14 @@ names:
 superuser: false
 
 # Role/position
-role: Intern
+role: Bachelor Student
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - Researchers
-  - Interns
-  # - Intern Alumni
+  - Bachelor Students
+  # - Bachelor Alumni
 
 department:
   - College of Computer Science and Technology
@@ -64,4 +64,4 @@ social:
     link: mailto:yixuanbu@zju.edu.cn
 ---
 
-I am enrolled in an intern program at the [Formal Verification Group](/) under the supervision of Dr. Mingshuai Chen. Together with colleagues from ISCAS, we work on automated inductive and/or deductive approaches to synthesizing (possibly infinite-state) loopy probabilistic programs encoding randomized algorithms.
+I am currently doing my Bachelor's thesis at the [Formal Verification Group](/) under the supervision of Dr. Mingshuai Chen. Together with colleagues from ISCAS, we work on automated inductive and/or deductive approaches to synthesizing (possibly infinite-state) loopy probabilistic programs encoding randomized algorithms.

@@ -1,33 +1,33 @@
 ---
 # Display name
-title: Mingqi Yang
+title: Zhongyi Wang
 
 # Username (this should match the folder name)
 authors:
-  - Mingqi-Yang
+  - Zhongyi-Wang
 
 #Author Names (alternative spellings etc)
 names:
-  - Mingqi Yang
-  - Yang, Mingqi
-  - M. Yang
-  - Yang, M.
-  - 杨明奇
+  - Zhongyi Wang
+  - Wang, Zhongyi
+  - Z. Wang
+  - Wang, Z.
+  - 王钟逸
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Ph.D. Candidate
+role: M.Sc. Candidate
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - Researchers
-  - Ph.D. Students
+  - Master Students
 
 department:
-  - College of Computer Science and Technology
+  - School of Software Technology
 
 # Organizations/Affiliations
 organizations:
@@ -35,7 +35,7 @@ organizations:
     url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include formal verification, programming theory, and mathematical aspects of computer science.
+bio: My research interests include formal verification and programming analysis.
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -46,25 +46,25 @@ highlight_name: false
 # The subheadings, such as Interests and Education, will automatically translate depending on the language chosen in `config.yaml`. To customize the subheading text, see the Language page in the docs.
 
 interests:
-  - Verification Meets AI
-  - Probabilistic Systems
-  - Quantitative Reasoning
-  - Program Synthesis
+  - Abstract Interpretation
+  - Static Analysis
+  - Automated Verification
+  - Programming Theory/Languages
 
 
 education:
   courses:
-    - course: Ph.D. in Computer Science
+    - course: M.Sc. in Software Engineering
       institution: Zhejiang University
-      year: 2028
-    - course: B.Sc. in Information and Computation
-      institution: Wuhan University of Technology
+      year: 2026
+    - course: B.Sc. in Bioinformatics
+      institution: Shanghai Jiao Tong University
       year: 2023
 
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:mingqiyang@zju.edu.cn
+    link: mailto:wzygomboc@zju.edu.cn
 ---
 
-I am currently a Ph.D. student at the [Formal Verification Group](/) where my research interest falls in the intersection of formal methods and artificial intelligence. I develop semi-formal techniques for synthesizing loopy probabilistic programs leveraging neuro-symbolic approaches.
+I am currently a Master student at the [Formal Verification Group](/). My research focuses on static program analysis where, in particular, I develop formal techniques for automating the procedure of abstract interpretation for analyzing C/C++ programs.

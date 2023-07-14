@@ -23,9 +23,9 @@ role: Intern
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
-  - Interns
-  # - Intern Alumni
+  #- Researchers
+  #- Interns
+  - Intern Alumni
 
 department:
   - Hong Kong University of Science and Technology
@@ -67,4 +67,6 @@ social:
     link: mailto:zwube@connect.ust.hk
 ---
 
-I have been involved in research projects on parameterized algorithms in static analysis and differential privacy in database query processing. In particular, during the intern program at RWTH Aachen University, I work on the topic of latticed Craig interpolation under the supervision of Dr. Mingshuai Chen, where we aim to apply the well-established technique of Craig interpolation to the verification of (possibly infinite-state) probabilistic programs encoding randomized algorithms.
+I have been involved in an intern program at RWTH Aachen University during the second half of 2022. I worked on the topic of latticed Craig interpolation under the supervision of Dr. Mingshuai Chen, where we aim to apply the well-established technique of Craig interpolation to the verification of (possibly infinite-state) probabilistic programs encoding randomized algorithms.
+
+I am currently a Ph.D. candidate at the University of Waterloo, Canada.

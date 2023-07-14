@@ -1,30 +1,31 @@
 ---
 # Display name
-title: Mingqi Yang
+title: He Li
 
 # Username (this should match the folder name)
 authors:
-  - Mingqi-Yang
+  - He-Li
 
 #Author Names (alternative spellings etc)
 names:
-  - Mingqi Yang
-  - Yang, Mingqi
-  - M. Yang
-  - Yang, M.
-  - 杨明奇
+    - He Li
+    - Li, He
+    - H. Li
+    - Li, H.
+    - 李赫
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Ph.D. Candidate
+role: Bachelor Student
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - Researchers
-  - Ph.D. Students
+  - Bachelor Students
+  # - Bachelor Alumni
 
 department:
   - College of Computer Science and Technology
@@ -35,7 +36,7 @@ organizations:
     url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include formal verification, programming theory, and mathematical aspects of computer science.
+bio: My research interest lies in the general scope of service computing and regulations.
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -46,25 +47,21 @@ highlight_name: false
 # The subheadings, such as Interests and Education, will automatically translate depending on the language chosen in `config.yaml`. To customize the subheading text, see the Language page in the docs.
 
 interests:
-  - Verification Meets AI
-  - Probabilistic Systems
-  - Quantitative Reasoning
-  - Program Synthesis
-
+  - Service Computing
+  - Service Regulations
+  - Multimodal Learning
+  - Language Design
 
 education:
   courses:
-    - course: Ph.D. in Computer Science
+    - course: B.Sc. in Computer Science (Turing Class)
       institution: Zhejiang University
-      year: 2028
-    - course: B.Sc. in Information and Computation
-      institution: Wuhan University of Technology
-      year: 2023
+      year: 2024
 
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:mingqiyang@zju.edu.cn
+    link: mailto:lipher.zju.edu.cn
 ---
 
-I am currently a Ph.D. student at the [Formal Verification Group](/) where my research interest falls in the intersection of formal methods and artificial intelligence. I develop semi-formal techniques for synthesizing loopy probabilistic programs leveraging neuro-symbolic approaches.
+I am currently working on my Bachelor's thesis at the [Formal Verification Group](/) under the supervision of Dr. Mingshuai Chen. The goal of my research is to develop a uniform language for specifying and reasoning about multi-modal service regulations.
