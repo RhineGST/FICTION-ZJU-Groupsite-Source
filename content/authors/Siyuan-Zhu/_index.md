@@ -63,6 +63,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: mailto:syuanz@zju.edu.cn
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/floatshadow
 ---
 
 I am currently working on my Bachelor's thesis at the [Formal Verification Group](/) under the supervision of Dr. Mingshuai Chen. The goal of my research is to develop formal techniques for the verification of probabilistic programs with pointer manipulation.

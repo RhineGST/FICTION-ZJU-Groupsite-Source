@@ -65,6 +65,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: mailto:wzygomboc@zju.edu.cn
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/wzyb-52
 ---
 
 I am currently a Master student at the [Formal Verification Group](/). My research focuses on static program analysis where, in particular, I develop formal techniques for automating the procedure of abstract interpretation for analyzing C/C++ programs.
