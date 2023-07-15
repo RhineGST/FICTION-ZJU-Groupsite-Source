@@ -70,4 +70,4 @@ social:
     link: https://github.com/meowConflict
 ---
 
-I aam currently a Master student at the [Formal Verification Group](/) where my research interest falls in the intersection of mathematics and computer science. I develop formal techniques for verifying possibly noisy quantum programs against properties like robustness, safety, and privacy.
+I am currently a Master student at the [Formal Verification Group](/) where my research interest falls in the intersection of mathematics and computer science. I develop formal techniques for verifying possibly noisy quantum programs against properties like robustness, safety, and privacy.

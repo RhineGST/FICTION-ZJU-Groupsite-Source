@@ -62,6 +62,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: mailto:lipher.zju.edu.cn
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/Lipher-zju
 ---
 
 I am currently working on my Bachelor's thesis at the [Formal Verification Group](/) under the supervision of Dr. Mingshuai Chen. The goal of my research is to develop a uniform language for specifying and reasoning about multi-modal service regulations.
