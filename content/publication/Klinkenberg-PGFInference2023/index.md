@@ -8,8 +8,7 @@ draft: false
 authors:
   - Lutz Klinkenberg
   - Christian Blumenthal
-  - Minghsuai Chen
-  - Joost{}}-Pieter Katoen
+  - Mingshuai Chen
   - Joost-Pieter Katoen
 # author_notes:
 #  - 'Equal contribution'
