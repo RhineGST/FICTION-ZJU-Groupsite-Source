@@ -1,5 +1,5 @@
 ---
-title: 'Exact Probabilistic Inference Using Generating Functions'
+title: 'Exact Bayesian Inference for Loopy Probabilistic Programs'
 subtitle: ''
 
 featured: false
@@ -7,17 +7,18 @@ draft: false
 
 authors:
   - Lutz Klinkenberg
-  - Tobias Winkler
-  - Mingshuai Chen
+  - Christian Blumenthal
+  - Minghsuai Chen
+  - Joost{}}-Pieter Katoen
   - Joost-Pieter Katoen
 # author_notes:
 #  - 'Equal contribution'
 #  - 'Equal contribution'
 
-date: '2023-01-15T00:00:00Z'
+date: '2023-07-14T00:00:00Z'
 #lastmod: 2021-10-07T18:49:05-06:00
 
-doi: ''
+doi: '10.48550/arXiv.2307.07314'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2017-01-01T00:00:00Z'
@@ -26,24 +27,23 @@ publishDate: '2017-01-01T00:00:00Z'
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['1']
+publication_types: ['3']
 
 # Publication name and optional abbreviated publication name.
-publication: In *LAFI 2023*
-publication_short: In *LAFI 2023*
+publication: '*arXiv*, abs/2307.07314'
+publication_short: '*arXiv*'
 
-abstract: "Probabilistic programs are typically normal-looking programs describing posterior probability distributions. They intrinsically code up randomized algorithms and have long been at the heart of modern machine learning and approximate computing. We explore the theory of generating functions and investigate its usage in the exact quantitative reasoning of probabilistic programs. Important topics include the exact representation of program semantics, proving exact program equivalence, and – as our main focus in this extended abstract – exact probabilistic inference.
-
-In probabilistic programming, inference aims to derive a program's posterior distribution. In contrast to approximate inference, inferring exact distributions comes with several benefits, e.g., no loss of precision, natural support for symbolic parameters, and efficiency on models with certain structures. Exact probabilistic inference, however, is a notoriously hard task. The challenges mainly arise from three program constructs: (1) unbounded while-loops and/or recursion, (2) infinite-support distributions, and (3) conditioning (via posterior observations). We present our ongoing research in addressing these challenges (with a focus on conditioning) leveraging generating functions and show their potential in facilitating exact probabilistic inference for discrete probabilistic programs."
+abstract: We present an exact Bayesian inference method for inferring posterior distributions encoded by probabilistic programs featuring possibly *unbounded looping behaviors*. Our method is built on an extended denotational semantics represented by *probability generating functions*, which resolves semantic intricacies induced by intertwining discrete probabilistic loops with *conditioning* (for encoding posterior observations). We implement our method in a tool called <span style="font-variant:small-caps;">Prodigy</span>; it augments existing computer algebra systems with the theory of generating functions for the (semi-)automatic inference and quantitative verification of conditioned probabilistic programs. Experimental results show that <span style="font-variant:small-caps;">Prodigy</span> can handle various infinite-state loopy programs and outperforms state-of-the-art exact inference tools over benchmarks of loop-free programs.
 
 tags:
   - probabilistic programs
   - Bayesian inference
   - quantitative reasoning
   - verification
-  - probabilistic conditioning
+  - program equivalence
   - semantics
   - generating functions
+  - decidability
   - uncertainty
 
 # Summary. An optional shortened abstract.
@@ -52,7 +52,7 @@ summary: ''
 # links:
 # - name: ""
 #   url: ""
-url_pdf: '/papers/LAFI2023.pdf'
+url_pdf: 'https://arxiv.org/pdf/2307.07314.pdf'
 url_code: 'https://github.com/LKlinke/Prodigy'
 url_dataset: ''
 url_poster: ''
