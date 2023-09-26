@@ -18,14 +18,14 @@
       {{ if $page.Params.subtitle }}<p>{{ $page.Params.subtitle | markdownify | emojify }}</p>{{ end }}
     </div>
     {{ end }}
-  
+
     {{ with $page.Content }}
     <div class="col-md-12">
       {{ . }}
     </div>
     {{ end }}
-  
-    
+
+
     {{ $query := where (where site.Pages "Section" "authors") ".Params.user_groups" "intersect" ($display_groups) }}
     {{ if in (slice "Tools") $subtitle}}
       {{ $query := $query | intersect (where (where site.Pages "Section" "authors") ".Params.user_groups" "intersect" (slice "Tools")) }}
@@ -34,7 +34,7 @@
           <h2 class="mb-4">{{ $subtitle }}</h2>
       </div>
       {{end}}
-    
+
       {{ range $query }}
       {{ $avatar := (.Resources.ByType "image").GetMatch "*avatar*" }}
       {{/* Get link to user's profile page. */}}
@@ -54,7 +54,7 @@
           {{ $avatar_shape := site.Params.avatar.shape | default "circle" }}
           {{with $link}}<a href="{{.}}">{{end}}<img class="avatar {{if eq $avatar_shape "square"}}avatar-square{{else}}avatar-circle{{end}}" src="{{ $src }}" alt="Avatar">{{if $link}}</a>{{end}}
         {{ end }}
-    
+
         <div class="portrait-title">
           <h2>{{with $link}}<a href="{{.}}">{{end}}{{ .Title }}{{if $link}}</a>{{end}}</h2>
           {{ if $show_social }}{{ partial "social_links_plus_university" . }}{{ end }}
@@ -64,7 +64,7 @@
         </div>
       </div>
       {{ end }}
-    
+
     {{ else if in (slice "Contributors") $subtitle }}
       {{ $query := $query | complement (where (where site.Pages "Section" "authors") ".Params.user_groups" "intersect" (slice "Tools")) }}
       {{if $query}}
@@ -72,7 +72,7 @@
           <h2 class="mb-4">{{ $subtitle }}</h2>
       </div>
       {{end}}
-    
+
       {{ range $query }}
       {{ $avatar := (.Resources.ByType "image").GetMatch "*avatar*" }}
       {{/* Get link to user's profile page. */}}
@@ -92,7 +92,7 @@
           {{ $avatar_shape := site.Params.avatar.shape | default "circle" }}
           {{with $link}}<a href="{{.}}">{{end}}<img class="avatar {{if eq $avatar_shape "square"}}avatar-square{{else}}avatar-circle{{end}}" src="{{ $src }}" alt="Avatar">{{if $link}}</a>{{end}}
         {{ end }}
-    
+
         <div class="portrait-title">
           <h2>{{with $link}}<a href="{{.}}">{{end}}{{ .Title }}{{if $link}}</a>{{end}}</h2>
           {{ if $show_social }}{{ partial "social_links_plus_university" . }}{{ end }}
@@ -111,7 +111,7 @@
           <h2 class="mb-4">{{ $subtitle }}</h2>
       </div>
       {{end}}
-    
+
       {{ range $query }}
       {{ $avatar := (.Resources.ByType "image").GetMatch "*avatar*" }}
       {{/* Get link to user's profile page. */}}
@@ -131,7 +131,7 @@
           {{ $avatar_shape := site.Params.avatar.shape | default "circle" }}
           {{with $link}}<a href="{{.}}">{{end}}<img class="avatar {{if eq $avatar_shape "square"}}avatar-square{{else}}avatar-circle{{end}}" src="{{ $src }}" alt="Avatar">{{if $link}}</a>{{end}}
         {{ end }}
-    
+
         <div class="portrait-title">
           <h2>{{with $link}}<a href="{{.}}">{{end}}{{ .Title }}{{if $link}}</a>{{end}}</h2>
           {{ if $show_social }}{{ partial "social_links_plus_university" . }}{{ end }}
@@ -144,7 +144,7 @@
 
 
     {{ end }}
-    
-    
+
+
 
   </div>

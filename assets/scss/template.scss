@@ -39,3 +39,12 @@
     margin-left: auto;
     justify-content: right;
 }
+
+//// fit the group gallery images
+// .gallery-item img {
+    //width: auto;
+    //height: 100%;
+// }
+.gallery-grid {
+    grid-auto-rows: 215px;
+}

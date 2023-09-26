@@ -55,3 +55,5 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+
+{{< gallery album="group-photos" >}}

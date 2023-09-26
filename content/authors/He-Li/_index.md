@@ -36,7 +36,7 @@ organizations:
     url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interest lies in the general scope of service computing and regulations.
+bio: My research interest lies in the general scope of service computing and regulation.
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -48,7 +48,7 @@ highlight_name: false
 
 interests:
   - Service Computing
-  - Service Regulations
+  - Service Regulation
   - Multimodal Learning
   - Language Design
 
