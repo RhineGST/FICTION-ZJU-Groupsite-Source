@@ -89,7 +89,7 @@ social:
     link: https://publons.com/researcher/3415244/mingshuai-chen/
   - icon: linkedin
     icon_pack: fab
-    link: https://cn.linkedin.com/pub/mingshuai-chen/aa/838/481
+    link: https://www.linkedin.com/in/mingshuai-chen-481838aa/
 ---
 
 I am a US-equivalent tenure-track Assistant Professor leading the [Formal Verification Group](/) at Zhejiang University. Prior to joining ZJU, I worked as a Postdoctoral Researcher at the Software Modeling and Verification Group headed by Prof. Joost-Pieter Katoen at RWTH Aachen University. In 2019, I received the Ph.D. degree in computer science from the Institute of Software, Chinese Academy of Sciences under the supervision of Prof. Naijun Zhan and co-supervision of Prof. Martin Fränzle.
