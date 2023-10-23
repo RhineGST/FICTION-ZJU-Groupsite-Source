@@ -58,7 +58,7 @@ url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: '/slides/ROCKS22.pdf'
+url_slides: '/slides/OOPSLA23.pdf'
 url_source: ''
 url_video: ''
 
