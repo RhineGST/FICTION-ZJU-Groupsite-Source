@@ -70,4 +70,4 @@ social:
     link: https://github.com/wzyb-52
 ---
 
-I am currently a Master student at the [Formal Verification Group](/). My research focuses on static program analysis where, in particular, I develop formal techniques for automating the procedure of abstract interpretation for analyzing C/C++ programs.
+I am currently a Master student at the [Formal Verification Group](/). My research focuses on static program analysis where, in particular, I develop formal techniques for automating the procedure of abstract interpretation for analyzing C/C++ programs. :)
