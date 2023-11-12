@@ -1,5 +1,5 @@
 ---
-title: 'PS3: Precise Patch Presence Test based on Semantic Symbolic Signature'
+title: 'PS3: Precise Patch Presence Test Based on Semantic Symbolic Signature'
 subtitle: ''
 
 featured: false
