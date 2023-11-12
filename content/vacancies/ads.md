@@ -58,7 +58,7 @@ As a member of the prestigious [C9 League](https://en.wikipedia.org/wiki/C9_Leag
 
 Prof. Dr. {{% mention "Mingshuai Chen" %}} is a ZJU100 Young Professor leading the [Formal Verification Group](https://fiction-zju.github.io/) at Zhejiang University. Prior to joining ZJU, he worked as a Postdoctoral Researcher at RWTH Aachen University and a Visiting Researcher at University of Oldenburg, both in Germany. He received the Ph.D. degree in computer science from the Institute of Software, Chinese Academy of Sciences in 2019. His primary research interest lies in formal verification and synthesis, broadly construed in mathematical logic and theoretical computer science.
 
-Mingshuai Chen has published over twenty peer-reviewed papers at flagship journals/conferences including Inf. Compt., IEEE Trans. Automat. Contr., OOPSLA, CAV, TACAS, IJGAR, FM, etc. He serves in the reviewer panel of AMS Mathematical Reviews and the program/repeatability committees of SYNASC 2022, RTCSA 2021, VMCAI 2021, ADHS 2021, etc. He was the awardee of the Distinguished Paper Award at ATVA 2018, Best Paper Award at FMAC 2019, and the CAS-President Special Award in 2019 (1st awardee from ISCAS ever since its inception in 1985). Part of his research results has been successfully applied in the verification of control programs of the Chinese lunar lander Chang'e-3 and the Chinese high-speed railway system.
+Mingshuai Chen has published over twenty peer-reviewed papers at flagship journals/conferences including Inf. Compt., IEEE Trans. Automat. Contr., OOPSLA, CAV, FM, ASPLOS, IJGAR, TACAS etc. He serves in the reviewer panel of AMS Mathematical Reviews and the program/repeatability committees of SYNASC 2022, RTCSA 2021, VMCAI 2021, ADHS 2021, etc. He was the awardee of the NSFC Excellent Young Scientists Fund Program (Overseas, one of the most prestigious grants for young researchers across China), the Distinguished Paper Award at ATVA 2018, Best Paper Award at FMAC 2019, and the CAS-President Special Award in 2019 (1st awardee from ISCAS ever since its inception in 1985). Part of his research results has been successfully applied in the verification of control programs of the Chinese lunar lander Chang'e-3 and the Chinese high-speed railway system.
 
 <i class="fa-solid fa-download"></i> Check out Mingshuai Chen's [CV](/files/CV_Mingshuai%20Chen.pdf) for more detailed information.
 
@@ -77,7 +77,7 @@ Our research group aims to develop **formal reasoning techniques** for programs 
 
 <i class="fa-solid fa-download"></i> Check out Mingshuai Chen's [research statement](/files/Research%20Statement_Mingshuai%20Chen.pdf) for more details on these directions.
 
-[^note-FM]: Formal methods have long been at the heart of computer science; there are 12 [Turing Award Recipients](https://en.wikipedia.org/wiki/Turing_Award#Recipients) -- the most amongst all the sub-fields of computer science.
+[^note-FM]: Formal methods have long been at the heart of computer science; there are 14 [Turing Award Recipients](https://en.wikipedia.org/wiki/Turing_Award#Recipients) -- the most amongst all the sub-fields of computer science.
 
 
 ## What do we expect?
@@ -101,4 +101,4 @@ Our overall goal of teaching and advising is to assist the students in developin
 
 ## How to apply?
 
-<i class="fa-solid fa-envelope"></i> Drop us an [**email**](mailto:m.chen@zju.edu.cn) indicating the position(s) you are interested in while enclosing your **CV** and **transcripts**. Note that the Ph.D. position starting in September, 2023 has been closed.
+<i class="fa-solid fa-envelope"></i> Drop us an [**email**](mailto:m.chen@zju.edu.cn) indicating the position(s) you are interested in while enclosing your **CV** and **transcripts**. Note that the Ph.D. position starting in September, 2024 has been closed.
