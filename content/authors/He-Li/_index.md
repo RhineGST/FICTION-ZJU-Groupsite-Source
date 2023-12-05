@@ -61,7 +61,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:lipher.zju.edu.cn
+    link: mailto:lipher@zju.edu.cn
   - icon: github
     icon_pack: fab
     link: https://github.com/Lipher-zju
