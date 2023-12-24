@@ -45,6 +45,7 @@ tags:
   - fixed point theory
   - inductive invariants
   - generating functions
+  - decidability
   - uncertainty
 
 # Summary. An optional shortened abstract.
@@ -54,7 +55,7 @@ summary: ''
 # - name: ""
 #   url: ""
 url_pdf: '/papers/OOPSLA2024.pdf'
-url_code: ''
+url_code: 'https://github.com/LKlinke/Prodigy'
 url_dataset: ''
 url_poster: ''
 url_project: ''
