@@ -51,4 +51,4 @@ user_groups:
 - Courses
 ---
 
-Course topics include techniques, data structures, and algorithms for translating programming languages into executable code. Image credit: Risk.net.
+This course aims to introduce foundational techniques, data structures, and algorithms for translating high-level programming languages into executable code. Main topics covered by the series of lectures include lexical, syntactic, and semantic analysis of programs, code generation as well as optimization techniques. The course is primarily based on the text book "Modern Compiler Implementation in C" by Andrew W. Appel. Image credit: Risk.net.
