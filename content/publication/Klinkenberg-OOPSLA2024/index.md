@@ -54,7 +54,8 @@ summary: ''
 # links:
 # - name: ""
 #   url: ""
-url_pdf: '/papers/OOPSLA2024.pdf'
+url_pdf: ''
+#url_pdf: '/papers/OOPSLA2024.pdf'
 url_code: 'https://github.com/LKlinke/Prodigy'
 url_dataset: ''
 url_poster: ''
