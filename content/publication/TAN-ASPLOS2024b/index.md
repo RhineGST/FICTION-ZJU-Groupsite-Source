@@ -1,5 +1,5 @@
 ---
-title: 'QuFEM: Fast and Accurate Quantum Readout Calibration Using the Finite Element Method'
+title: 'MorphQPV: Exploiting Isomorphism in Quantum Programs to Facilitate Confident Verification'
 subtitle: ''
 
 featured: false
@@ -7,14 +7,11 @@ draft: false
 
 authors:
   - Siwei Tan
+  - Debin Xiang
   - Liqiang Lu
-  - Hanyu Zhang
-  - Jia Yu
-  - Congliang Lang
-  - Yongheng Shang
-  - Xinkui Zhao
+  - Junlin Lu
+  - Qiuping Jiang
   - Mingshuai Chen
-  - Yun Liang
   - Jianwei Yin
 # author_notes:
 #  - 'Equal contribution'
@@ -38,12 +35,12 @@ publication_types: ['1']
 publication: In *ASPLOS 2024*
 publication_short: In *ASPLOS 2024*
 
-abstract: Quantum readout error turns out to be the most significant error source, which greatly affects the measurement fidelity. Matrix-based calibration has been demonstrated to be effective in various quantum platforms. However, existing methodologies are fundamentally limited in either scalability or accuracy. Inspired by the classical finite element method (FEM), a formal method to model the complex interaction between elements, we present our calibration framework named QuFEM. First, we formulate the calibration as a series of tensor-product with noise matrices. The matrix is iteratively characterized together with the calibrated probability distribution, aiming to capture the inherent locality of qubit interactions. Then, to accelerate the end-to-end calibration, we propose a sparse tensor-product engine to exploit the sparsity in the intermediate data. Our experiments show that QuFEM achieves $1.8 \times 10^{9}\times$ speedup in the 136-qubit calibration compared to the state-of-the-art matrix-based calibration technique, and provides 1.2$\times$ and 1.4$\times$ fidelity improvement on the 18-qubit and 36-qubit real-world quantum devices.
+abstract: Different from classical computing, quantum program verification (QPV) is a much more challenging task due to the non-duplicability of quantum states and the quantum collapse after measurement. Prior approaches either rely on algebraic reasoning that shows poor scalability or requires exhaustive assertions with huge complexity. In this paper, we propose MorphQPV, a novel methodology to facilitate confident assertion-based verification. Our key insight is to leverage the isomorphism in quantum programs, which suggests an inherent matching between the program input and its runtime states. We first define an assertion statement that consists of assume-guarantee primitives and tracepoint pragma to label the target quantum state. Then, we can characterize the ground-truth relation between states using isomorphism-based approximation, which can effectively get the program states under various inputs while avoiding repeated executions. Finally, the verification is formulated as a constraint optimization problem with a confidence estimation model to enable rigorous analysis. Experiments suggest that MorphQPV reduces the number of program executions by $107.9\times$ times when verifying the 27-qubit quantum lock algorithm and improves the probability of success by $3.3\times$-$9.9\times$ when debugging 5 benchmarks.
 
 tags:
   - quantum systems
-  - quantum calibration
-  - finite element method
+  - quantum programming
+  - verification
   - uncertainty
 
 # Summary. An optional shortened abstract.
@@ -68,7 +65,7 @@ url_video: ''
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: ''
-  focal_point: ''
+  focal_point: 'Center'
   preview_only: false
 
 # Associated Projects (optional).

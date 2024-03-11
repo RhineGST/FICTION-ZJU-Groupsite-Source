@@ -1,5 +1,5 @@
 ---
-title: 'Exact Bayesian Inference for Loopy Probabilistic Programs'
+title: 'Exact Bayesian Inference for Loopy Probabilistic Programs using Generating Functions'
 subtitle: ''
 
 featured: true
@@ -30,7 +30,7 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: '*Proc. ACM Program. Lang., X(OOPSLA1)*'
+publication: '*Proc. ACM Program. Lang., 8(OOPSLA1)*'
 publication_short: '*Proc. ACM Program. Lang. (OOPSLA)*'
 
 abstract: We present an exact Bayesian inference method for inferring posterior distributions encoded by probabilistic programs featuring possibly *unbounded loops*. Our method is built on a denotational semantics represented by *probability generating functions*, which resolves semantic intricacies induced by intertwining discrete probabilistic loops with conditioning (for encoding posterior observations). We implement our method in a tool called <span style="font-variant:small-caps;">Prodigy</span>; it augments existing computer algebra systems with the theory of generating functions for the (semi-)automatic inference and quantitative verification of conditioned probabilistic programs. Experimental results show that <span style="font-variant:small-caps;">Prodigy</span> can handle various infinite-state loopy programs and exhibits comparable performance to state-of-the-art exact inference tools over loop-free benchmarks.
