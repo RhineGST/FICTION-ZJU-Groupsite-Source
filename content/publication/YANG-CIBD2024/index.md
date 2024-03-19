@@ -1,21 +1,22 @@
 ---
-title: 'Exact Bayesian Inference for Loopy Probabilistic Programs using Generating Functions'
+title: 'Latticed Craig Interpolation with an Application to Probabilistic Verification'
 subtitle: ''
 
-featured: true
+featured: false
 draft: false
 
 authors:
-  - Lutz Klinkenberg
-  - Christian Blumenthal
+  - Mingqi Yang
+  - Kevin Batz
   - Mingshuai Chen
-  - Darion Haase
   - Joost-Pieter Katoen
+  - Zhiang Wu
+  - Jianwei Yin
 # author_notes:
 #  - 'Equal contribution'
 #  - 'Equal contribution'
 
-date: '2024-04-01T00:00:00Z'
+date: '2024-03-18T00:00:00Z'
 #lastmod: 2021-10-07T18:49:05-06:00
 
 doi: ''
@@ -27,37 +28,40 @@ publishDate: '2017-01-01T00:00:00Z'
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['2']
+publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: '*Proc. ACM Program. Lang., 8(OOPSLA1)*'
-publication_short: '*Proc. ACM Program. Lang. (OOPSLA)*'
+publication: In *CIBD 2024*
+publication_short: In *CIBD 2024*
 
-abstract: We present an exact Bayesian inference method for inferring posterior distributions encoded by probabilistic programs featuring possibly *unbounded loops*. Our method is built on a denotational semantics represented by *probability generating functions*, which resolves semantic intricacies induced by intertwining discrete probabilistic loops with conditioning (for encoding posterior observations). We implement our method in a tool called <span style="font-variant:small-caps;">Prodigy</span>; it augments existing computer algebra systems with the theory of generating functions for the (semi-)automatic inference and quantitative verification of conditioned probabilistic programs. Experimental results show that <span style="font-variant:small-caps;">Prodigy</span> can handle various infinite-state loopy programs and exhibits comparable performance to state-of-the-art exact inference tools over loop-free benchmarks.
+abstract: "In this work, we are primarily concerned with the question: *Is Craig interpolation applicable to the automatic, quantitative verification of (infinite-state) probabilistic programs with potentially unbounded loops?* Our preliminary results indicate an affirmative answer:
+
+* *Quantitative Craig interpolants*. We propose a quantitative version of Craig interpolants by extending predicates to expectations (expected values), which can be used to discover quantitative loop invariants that suffice to establish upper bounds on the least fixed point;
+
+* *Latticed Craig interpolation*. We present latticed Craig interpolation by exploiting quantitative interpolants over complete lattices, which conservatively extends both McMillan's interpolation-based SAT model checking (to the *quantitative* setting) and Batz et al.'s latticed bounded model checking (to the *unbounded* case);
+
+* *Soundness and Completeness*. We show that our latticed interpolation procedure is *sound* and establish sufficient conditions under which it is further *complete*.
+
+* *Synthesizing quantitative interpolants*. We (semi-)automated our verification procedure by employing a counterexample-guided inductive synthesis framework to automatically generate quantitative interpolants. Our implementation shows promise: It finds invariants for non-trivial infinite-state programs with unbounded loops."
 
 tags:
   - probabilistic programs
-  - Bayesian inference
   - quantitative reasoning
   - verification
-  - probabilistic conditioning
-  - semantics
+  - interpolation
+  - probabilistic model checking
   - fixed point theory
   - inductive invariants
-  - generating functions
-  - decidability
+  - CEGIS
   - uncertainty
 
 # Summary. An optional shortened abstract.
 summary: ''
 
-links:
-  - icon_pack: fas
-    icon: stamp
-    name: "Artifact Evaluated"
-    url: "https://github.com/LKlinke/Prodigy"
-url_pdf: ''
-#url_pdf: '/papers/OOPSLA2024.pdf'
+# links:
+# - name: ""
+#   url: ""
+url_pdf: '/papers/CIBD2024.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
