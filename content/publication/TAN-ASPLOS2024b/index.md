@@ -13,14 +13,14 @@ authors:
   - Qiuping Jiang
   - Mingshuai Chen
   - Jianwei Yin
-# author_notes:
-#  - 'Equal contribution'
-#  - 'Equal contribution'
+author_notes:
+  - 'equal contribution'
+  - 'equal contribution'
 
 date: '2024-04-27T00:00:00Z'
 #lastmod: 2021-10-07T18:49:05-06:00
 
-doi: ''
+doi: '10.1145/3620666.3651360'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2017-01-01T00:00:00Z'
@@ -35,7 +35,7 @@ publication_types: ['1']
 publication: In *ASPLOS 2024*
 publication_short: In *ASPLOS 2024*
 
-abstract: Different from classical computing, quantum program verification (QPV) is a much more challenging task due to the non-duplicability of quantum states and the quantum collapse after measurement. Prior approaches either rely on algebraic reasoning that shows poor scalability or requires exhaustive assertions with huge complexity. In this paper, we propose MorphQPV, a novel methodology to facilitate confident assertion-based verification. Our key insight is to leverage the isomorphism in quantum programs, which suggests an inherent matching between the program input and its runtime states. We first define an assertion statement that consists of assume-guarantee primitives and tracepoint pragma to label the target quantum state. Then, we can characterize the ground-truth relation between states using isomorphism-based approximation, which can effectively get the program states under various inputs while avoiding repeated executions. Finally, the verification is formulated as a constraint optimization problem with a confidence estimation model to enable rigorous analysis. Experiments suggest that MorphQPV reduces the number of program executions by $107.9\times$ times when verifying the 27-qubit quantum lock algorithm and improves the probability of success by $3.3\times$-$9.9\times$ when debugging 5 benchmarks.
+abstract: Unlike classical computing, quantum program verification (QPV) is much more challenging due to the non-duplicability of quantum states that collapse after measurement. Prior approaches rely on deductive verification that shows poor scalability. Or they require exhaustive assertions that cannot ensure the program is correct for all inputs. In this paper, we propose MorphQPV, a confident assertion-based verification methodology. Our key insight is to leverage the isomorphism in quantum programs, which implies a structure-preserve relation between the program runtime states. In the assertion statement, we define a tracepoint pragma to label the verified quantum state and an assume-guarantee primitive to specify the expected relation between states. Then, we characterize the ground-truth relation between states using an isomorphism-based approximation, which can effectively obtain the program states under various inputs while avoiding repeated executions. Finally, the verification is formulated as a constraint optimization problem with a confidence estimation model to enable rigorous analysis. Experiments suggest that MorphQPV reduces the number of program executions by $107.9\times$ when verifying the 27-qubit quantum lock algorithm and improves the probability of success by $3.3\times$-$9.9\times$ when debugging five benchmarks.
 
 tags:
   - quantum systems
@@ -46,13 +46,13 @@ tags:
 # Summary. An optional shortened abstract.
 summary: ''
 
-# links:
-#   - icon_pack: fas
-#     icon: stamp
-#     name: "Artifact Evaluated"
-#     url: "https://github.com/LKlinke/Prodigy"
-url_pdf: ''
-url_code: ''
+links:
+ - icon_pack: fas
+   icon: stamp
+   name: "Artifact Evaluated"
+   url: "https://zenodo.org/records/10877687"
+url_pdf: '/papers/ASPLOS2024-b.pdf'
+url_code: 'https://github.com/JanusQ/MorphQPV/'
 url_dataset: ''
 url_poster: ''
 url_project: ''

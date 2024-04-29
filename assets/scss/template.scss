@@ -50,3 +50,9 @@
 .gallery-grid {
     grid-auto-rows: 215px;
 }
+
+// // Change symbol for author notes (to, e.g., fa-star)
+// .author-notes::before {
+//   content: "\f005"; /* Use any Unicode character or icon you prefer */
+//   /* Other styles */
+// }

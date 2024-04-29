@@ -23,7 +23,7 @@ authors:
 date: '2024-04-27T00:00:00Z'
 #lastmod: 2021-10-07T18:49:05-06:00
 
-doi: ''
+doi: '10.1145/3620665.3640380'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2017-01-01T00:00:00Z'
@@ -38,7 +38,7 @@ publication_types: ['1']
 publication: In *ASPLOS 2024*
 publication_short: In *ASPLOS 2024*
 
-abstract: Quantum readout error turns out to be the most significant error source, which greatly affects the measurement fidelity. Matrix-based calibration has been demonstrated to be effective in various quantum platforms. However, existing methodologies are fundamentally limited in either scalability or accuracy. Inspired by the classical finite element method (FEM), a formal method to model the complex interaction between elements, we present our calibration framework named QuFEM. First, we formulate the calibration as a series of tensor-product with noise matrices. The matrix is iteratively characterized together with the calibrated probability distribution, aiming to capture the inherent locality of qubit interactions. Then, to accelerate the end-to-end calibration, we propose a sparse tensor-product engine to exploit the sparsity in the intermediate data. Our experiments show that QuFEM achieves $1.8 \times 10^{9}\times$ speedup in the 136-qubit calibration compared to the state-of-the-art matrix-based calibration technique, and provides 1.2$\times$ and 1.4$\times$ fidelity improvement on the 18-qubit and 36-qubit real-world quantum devices.
+abstract: Quantum readout noise turns out to be the most significant source of error, which greatly affects the measurement fidelity. Matrix-based calibration has been demonstrated to be effective in various quantum platforms. However, existing methodologies are fundamentally limited in either scalability or accuracy. Inspired by the classical finite element method (FEM), a formal method to model the complex interaction between elements, we present our calibration framework named QuFEM. First, we apply a divide-and-conquer strategy that formulates the calibration as a series of tensor products with noise matrices. This matrices are iteratively characterized together with the calibrated probability distribution, aiming to capture the inherent locality of qubit interactions. Then, to accelerate the end-to-end calibration, we propose a sparse tensor-product engine to exploit the sparsity in the intermediate values. Our experiments show that QuFEM achieves $2.5 \times 10^{3}\times$ speedup in the 136-qubit calibration compared to the state-of-the-art matrix-based calibration technique, and provides 1.2$\times$ and 1.4$\times$ fidelity improvement on the 18-qubit and 36-qubit real-world quantum devices.
 
 tags:
   - quantum systems
@@ -54,8 +54,8 @@ summary: ''
 #     icon: stamp
 #     name: "Artifact Evaluated"
 #     url: "https://github.com/LKlinke/Prodigy"
-url_pdf: ''
-url_code: ''
+url_pdf: '/papers/ASPLOS2024-a.pdf'
+url_code: 'https://github.com/JanusQ/QuFEM'
 url_dataset: ''
 url_poster: ''
 url_project: ''
