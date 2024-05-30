@@ -50,6 +50,7 @@ interests:
   - Service Regulation
   - Multimodal Learning
   - Language Design
+  - AI for FM
 
 education:
   courses:
