@@ -22,11 +22,11 @@ role: Visitors
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  # - Ph.D. Students
+  - Researchers
   - Visitors
 
 department:
-  - Computer Science and Engeneering
+  - Computer Science and Engineering
 
 # Organizations/Affiliations
 organizations:
@@ -34,7 +34,7 @@ organizations:
     url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include verification, synthesis and cyber-physical systems.
+bio: My research interests include verification, synthesis, and cyber-physical systems.
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -51,12 +51,12 @@ interests:
 
 education:
   courses:
-    - course: PhD in Computer Science and Engeneering
+    - course: PhD in Computer Science and Engineering
       institution: The Hong Kong University of Science and Technology
       year: 2026
     - course: BSc in Mathematics
       institution: Saint Petersburg State University
-      year: 2021 
+      year: 2021
 
 social:
   - icon: envelope
@@ -68,4 +68,4 @@ social:
 ---
 
 
-Currently I am a PhD student at HKUST, part of [ALPACAS](https://amir.goharshady.com/alpacas-research-group) research group. My research interests are: formal verification, probabilistic systems, applied parameterized graph algorithms. In the summer of 2024, I was on a research visit to the [Formal Verification Group](/)
+I am currently a PhD student at HKUST, part of the [ALPACAS](https://amir.goharshady.com/alpacas-research-group) research group led by Dr. [Amir Goharshady](https://amir.goharshady.com/home). My research interests include formal verification, probabilistic systems, and applied parameterized graph algorithms. In the summer of 2024, I was on a research visit to the [Formal Verification Group](/).
