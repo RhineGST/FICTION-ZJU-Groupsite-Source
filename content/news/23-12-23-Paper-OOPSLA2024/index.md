@@ -1,5 +1,5 @@
 ---
-title: Paper Accepted by Tsinghua Sci. Tech.
+title: Paper Accepted by OOPSLA 2024
 date: 2024-02-24
 
 authors: [""]
@@ -13,8 +13,8 @@ image:
   preview_only: false
 ---
 
-Our paper has been accepted by Tsinghua Science and Technology.
+Our paper has been accepted for presentation at OOPSLA 2024.
 
 <!--more-->
 
-Our paper titled "[A Privacy Policy Text Compliance Reasoning Framework with Large Language Models for Healthcare Services](/publication/chen-tst2024/)" by Jintao Chen, Fan Wang, Shengye Pang, {{% mention "Mingshuai Chen" %}}, Meng Xi, Tiancheng Zhao, and Jianwei Yin has been accepted for publication at the Tsinghua Science and Technology journal. This article contributes an LLM-driven framework for reasoning about the compliance of privacy policy text.
+Our paper titled "[Exact Bayesian Inference for Loopy Probabilistic Programs using Generating Functions](/publication/klinkenberg-oopsla2024/)" by Lutz Klinkenberg (RWTH Aachen), Christian Blumenthal (RWTH Aachen), {{% mention "Mingshuai Chen" %}}, Darion Haase (RWTH Aachen), and Joost-Pieter Katoen (RWTH Aachen) has been accepted for presentation at OOPSLA 2024 in California, United States, as part of the Proceedings of the ACM on Programming Languages (PACMPL). This paper contributes an exact Bayesian inference method for inferring posterior distributions encoded by probabilistic programs featuring possibly unbounded loops.

@@ -1,6 +1,6 @@
 ---
-title: Paper Accepted by CIBD 2024
-date: 2024-03-18
+title: Paper Accepted by Tsinghua Sci. Tech.
+date: 2024-05-08
 
 authors: [""]
 # authors: ["Mingshuai Chen"]
@@ -13,9 +13,8 @@ image:
   preview_only: false
 ---
 
-Our extended abstract has been accepted for presentation at CIBD 2024.
+Our paper has been accepted by Tsinghua Science and Technology.
 
 <!--more-->
 
-Our extended abstract titled "[Latticed Craig Interpolation with an Application to Probabilistic Verification](/publication/yang-cibd2024/)" by {{% mention "Mingqi Yang" %}}, Kevin Batz (RWTH Aachen), {{% mention "Mingshuai Chen" %}}, Joost-Pieter Katoen (RWTH Aachen), {{% mention "Zhiang Wu" %}}, and Jianwei Yin has been accepted for presentation at CIBD 2024 -- the Workshop on Theory and Applications of Craig Interpolation and Beth Definability at Amsterdam, Netherlands. This extended abstract presents our ongoing research in quantitative verification of (infinite-state) probabilistic programs
-with potentially unbounded loops leveraging the technique of latticed Craig interpolation.
+Our paper titled "[A Privacy Policy Text Compliance Reasoning Framework with Large Language Models for Healthcare Services](/publication/chen-tst2024/)" by Jintao Chen, Fan Wang, Shengye Pang, {{% mention "Mingshuai Chen" %}}, Meng Xi, Tiancheng Zhao, and Jianwei Yin has been accepted for publication at the Tsinghua Science and Technology journal. This article contributes an LLM-driven framework for reasoning about the compliance of privacy policy text.
