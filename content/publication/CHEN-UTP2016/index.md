@@ -31,8 +31,8 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: '*UTP 2016*'
-publication_short: '*UTP 2016*'
+publication: In *UTP 2016*
+publication_short: In *UTP 2016*
 
 abstract: "It is well known that informal simulation-based design of embedded systems has a low initial cost and delivers early results; yet it cannot guarantee the correctness and reliability of the system to be developed. In contrast, the correctness and reliability of the system can be thoroughly investigated with formal design, but it requires a larger effort, which increases the development cost. Therefore, it is desirable for a designer to move between formal and informal design. This paper describes how to translate Hybrid CSP (HCSP) formal models into Simulink graphical models, so that the models can be simulated and tested using a MATLAB platform, thus avoiding expensive formal verification if the development is at a stage where it is considered unnecessary. Together with our previous work on encoding Simulink/Stateflow diagrams into HCSP, it provides a two-way path in the design of embedded systems, so that the designer can flexibly shift between formal and informal models. The translation from HCSP into Simulink diagrams is implemented as a fully automatic tool, and the correctness of the translation is justified using Unifying Theories of Programming (UTP)."
 

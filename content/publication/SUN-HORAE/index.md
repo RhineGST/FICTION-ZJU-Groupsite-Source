@@ -1,31 +1,29 @@
 ---
-title: 'PA-Boot: A Formally Verified Authentication Protocol for Multiprocessor Secure Boot'
+title: 'Horae: A Domain-Agnostic Modeling Language for Automating Multimodal Service Regulation'
 subtitle: ''
 
 featured: false
 draft: false
 
 authors:
-  - Zhuoruo Zhang
-  - Rui Chang
+  - Yutao Sun
   - Mingshuai Chen
-  - Wenbo Shen
-  - Bo Feng
-  - Chenyang Yu
-  - He Huang
-  - Qinming Dai
-  - Yongwang Zhao
+  - Tiancheng Zhao
+  - Kangjia Zhao
+  - He Li
+  - Jintao Chen
+  - Liqiang Lu
+  - Xinkui Zhao
+  - Shuiguang Deng
+  - Jianwei Yin
 # author_notes:
 #  - 'Equal contribution'
 #  - 'Equal contribution'
 
-#to be updated
-date: '2022-09-16T00:00:00Z'
-#date: '2015-09-01T00:00:00Z'
+date: '2024-07-16T00:00:00Z'
 #lastmod: 2021-10-07T18:49:05-06:00
 
-#to be updated
-doi: '10.48550/ARXIV.2209.07936'
+doi: ''
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2017-01-01T00:00:00Z'
@@ -37,17 +35,21 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['3']
 
 # Publication name and optional abbreviated publication name.
-publication: '*arXiv*, abs/2209.07936'
+publication: '*arXiv*, abs/2406.06600'
 publication_short: '*arXiv*'
 
-abstract: "Hardware supply-chain attacks are raising significant security threats to the boot process of multiprocessor systems. This paper identifies a new, prevalent hardware supply-chain attack surface that can bypass multiprocessor secure boot due to the absence of processor-authentication mechanisms. To defend against such attacks, we present PA-Boot, the first formally verified processor-authentication protocol for secure boot in multiprocessor systems. PA-Boot is proved functionally correct and is guaranteed to detect multiple adversarial behaviors, e.g., processor replacements, man-in-the-middle attacks, and tampering with certificates. The fine-grained formalization of PA-Boot and its fully mechanized security proofs are carried out in the Isabelle/HOL theorem prover with 306 lemmas/theorems and ~7,100 LoC. Experiments on a proof-of-concept implementation indicate that PA-Boot can effectively identify boot-process attacks with a considerably minor overhead and thereby improve the security of multiprocessor systems."
+#publication: '*IEEE Transactions on Services Computing*, XXX'
+#publication_short: '*IEEE Trans. Serv. Comput.*'
+
+abstract: Artificial intelligence is rapidly encroaching on the field of service regulation. This work presents Horae, a unified specification language to model multimodal regulation rules across a diverse set of domains. We show how Horae facilitates an intelligent service regulation pipeline by further exploiting a fine-tuned large language model named RuleGPT that automates the Horae modeling process, thereby yielding an end-to-end framework for fully automated intelligent service regulation. The feasibility and effectiveness of our framework are demonstrated over a benchmark of various real-world regulation domains.
 
 tags:
-  - security
-  - protocol
-  - verification
-  - hardware
-  - theorem proving
+  - service computing
+  - service regulation
+  - multimodal learning
+  - language design
+  - compliance reasoning
+  - large language models
 
 # Summary. An optional shortened abstract.
 summary: ''
@@ -55,9 +57,9 @@ summary: ''
 # links:
 # - name: ""
 #   url: ""
-url_pdf: 'https://arxiv.org/pdf/2209.07936.pdf'
-url_code: ''
-url_dataset: ''
+url_pdf: 'https://arxiv.org/pdf/2406.06600'
+url_code: 'https://github.com/Xxxxxsun/RuleGPT'
+url_dataset: 'https://huggingface.co/datasets/Xfgll/SRR-Eval'
 url_poster: ''
 url_project: ''
 url_slides: ''

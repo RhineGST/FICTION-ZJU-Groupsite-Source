@@ -31,8 +31,8 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: '*ECC 2016*'
-publication_short: '*ECC 2016*'
+publication: In *ECC 2016*
+publication_short: In *ECC 2016*
 
 abstract: "The reachability problem is one of the most important issues in the verification of hybrid systems. But unfortunately the reachable sets for most of hybrid systems are not computable except for some special families. In our previous work, we identified a family of vector fields, whose state parts are linear with real eigenvalues, while input parts are exponential functions, and proved its reachability problem is decidable. In this paper, we investigate another family of vector fields, whose state parts are linear, but with pure imagine eigenvalues, while input parts are trigonometric functions, and prove its reachability problem is decidable also. To the best of our knowledge, the two families are the largest families of linear vector fields with a decidable reachability problem. In addition, we present an approach on how to abstract general linear dynamical systems to the first family. Comparing with existing abstractions for linear dynamical systems, experimental results indicate that our abstraction is more precise."
 

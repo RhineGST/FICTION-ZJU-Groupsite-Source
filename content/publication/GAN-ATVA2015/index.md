@@ -31,8 +31,8 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: '*ATVA 2015*'
-publication_short: '*ATVA 2015*'
+publication: In *ATVA 2015*
+publication_short: In *ATVA 2015*
 
 abstract: "The reachability problem is one of the most important issues in the verification of hybrid systems. Computing the reachable sets of differential equations is difficult, although computing the reachable sets of finite state machines is well developed. Hence, it is not surprising that the reachability of most of hybrid systems is undecidable. In this paper, we identify a family of vector fields and show its reachability problem is decidable. The family consists of all vector fields whose state parts are linear, while input parts are non-linear, possibly with exponential expressions. Such vector fields are commonly used in practice.To the best of our knowledge, the family is one of the most expressive families of vector fields with a decidable reachability problem.The decidability is achieved by proving the decidability of the extension of Tarski's algebra with some specific exponential functions, which has been proved by Strzeboński. In this paper, we propose another decision procedure, which is more efficient when all constraints are open sets. The experimental results indicate the efficiency of our approach, even better than existing approaches based on approximation and numeric computation in general."
 
