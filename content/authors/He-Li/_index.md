@@ -23,9 +23,9 @@ role: Bachelor Student
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
-  - Bachelor Students
-  # - Bachelor Alumni
+  # - Researchers
+  # - Bachelor Students
+  - Bachelor Alumni
 
 department:
   - College of Computer Science and Technology
@@ -67,4 +67,6 @@ social:
     link: https://github.com/Lipher-zju
 ---
 
-I am currently working on my Bachelor's thesis at the [Formal Verification Group](/) under the supervision of Dr. Mingshuai Chen. The goal of my research is to develop a uniform language for specifying and reasoning about multimodal service regulations.
+I have been doing my Bachelor's thesis at the [Formal Verification Group](/) under the co-supervision of Dr. Mingshuai Chen and Dr. [Jianwei Yin](https://person.zju.edu.cn/en/0001038). The goal of my research is to develop a uniform language for specifying and reasoning about multimodal service regulations.
+
+I am currently a software engineer at IPLUSMOBOT, Hangzhou, China

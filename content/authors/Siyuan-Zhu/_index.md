@@ -23,9 +23,9 @@ role: Bachelor Student
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
-  - Bachelor Students
-  # - Bachelor Alumni
+  # - Researchers
+  # - Bachelor Students
+  - Bachelor Alumni
 
 department:
   - College of Computer Science and Technology
@@ -47,8 +47,8 @@ highlight_name: false
 # The subheadings, such as Interests and Education, will automatically translate depending on the language chosen in `config.yaml`. To customize the subheading text, see the Language page in the docs.
 
 interests:
-  - Probabilistic Pointer Programs
-  - Programming Theory/Languages
+  - Probabilistic Programs
+  - Determinization
   - Compiler Optimization
   - Static Analysis
   - Logic
@@ -68,4 +68,6 @@ social:
     link: https://github.com/floatshadow
 ---
 
-I am currently working on my Bachelor's thesis at the [Formal Verification Group](/) under the supervision of Dr. Mingshuai Chen. The goal of my research is to develop formal techniques for the verification of probabilistic programs with pointer manipulation.
+I have been doing my Bachelor's thesis at the [Formal Verification Group](/) under the supervision of Dr. Mingshuai Chen, where we developed a method for determinizing probabilistic programs while preserving quantities like (bounds on) the (expected) running time and/or expected values.
+
+I am currently a Ph.D. candidate at Peking University.

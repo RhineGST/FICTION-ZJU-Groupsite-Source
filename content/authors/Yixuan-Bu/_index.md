@@ -23,9 +23,9 @@ role: Bachelor Student
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
-  - Bachelor Students
-  # - Bachelor Alumni
+  # - Researchers
+  # - Bachelor Students
+  - Bachelor Alumni
 
 department:
   - College of Computer Science and Technology
@@ -49,6 +49,7 @@ highlight_name: false
 interests:
   - Quantitative Reasoning
   - Automated Synthesis
+  - Static Analysis
   - Probabilistic Programs
   - Inductive Invariants
 
@@ -64,4 +65,6 @@ social:
     link: mailto:yixuanbu@zju.edu.cn
 ---
 
-I am currently doing my Bachelor's thesis at the [Formal Verification Group](/) under the supervision of Dr. Mingshuai Chen. Together with colleagues from ISCAS, we work on automated inductive and/or deductive approaches to synthesizing (possibly infinite-state) loopy probabilistic programs encoding randomized algorithms.
+I have been doing my Bachelor's thesis at the [Formal Verification Group](/) under the supervision of Dr. Mingshuai Chen, where we aim to synthesize (possibly infinite-state) loopy probabilistic programs encoding randomized algorithms. I have also contributed to Parf - a framework for adaptively tuning external parameters of abstract interpretation-based static analyzers.
+
+I am currently a Ph.D. candidate at the Polytechnic Institute of Zhejiang University.
