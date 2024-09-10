@@ -56,8 +56,7 @@ links:
     icon: stamp
     name: "Artifact Evaluated"
     url: "https://github.com/LKlinke/Prodigy"
-url_pdf: ''
-#url_pdf: '/papers/OOPSLA2024.pdf'
+url_pdf: '/papers/OOPSLA2024.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
