@@ -35,7 +35,7 @@ organizations:
     url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include formal verification and programming analysis.
+bio: My research interests include formal verification and program analysis.
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -69,4 +69,4 @@ social:
 ---
 
 
-I am currently a Master student at the [Formal Verification Group](/). My research interests mainly include formal verification and programming analysis.
+I am currently a Master student at the [Formal Verification Group](/). My research interests mainly include formal verification and program analysis.
