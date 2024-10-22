@@ -49,7 +49,7 @@ interests:
   - Probabilistic Program Synthesis
   - Programming Theory/Languages
   - Static Analysis
-  - Formal Methodsx
+  - Formal Methods
   - Datalog
   
 
