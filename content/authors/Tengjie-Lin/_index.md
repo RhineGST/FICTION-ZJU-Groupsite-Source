@@ -47,11 +47,11 @@ highlight_name: false
 
 interests:
   - Probabilistic Program Synthesis
-  - Static Analysis
-  - Formal Methods
-  - Datalog
-  - Automated Verification
   - Programming Theory/Languages
+  - Static Analysis
+  - Formal Methodsx
+  - Datalog
+  
 
 
 education:
