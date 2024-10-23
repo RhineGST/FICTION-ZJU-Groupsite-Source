@@ -72,6 +72,6 @@ social:
     link: https://github.com/IOExceptionOI
 ---
 
-I am affiliated with the [Formal Verification Group](), and my main research areas include **Probabilistic Program Synthesis**，**Program Analysis**, **Formal Methods**, and **Programming Languages**. I also have a strong interest in Static Analysis, Datalog, Automated Verification, and Programming Theory.
+I am affiliated with the [Formal Verification Group](), and my main research areas include **Probabilistic Program Synthesis**, **Program Analysis**, **Formal Methods**, and **Programming Languages**. I also have a strong interest in Static Analysis, Datalog, Automated Verification, and Programming Theory.
 
 If you'd like to know more, feel free to contact me via email at [tengjiecs@gmail.com](mailto:tengjiecs@gmail.com), or visit my GitHub profile: https://github.com/IOExceptionOI.
