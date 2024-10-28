@@ -52,7 +52,7 @@ summary: ''
 #links:
 #  - name: ""
 #    url: ""
-url_pdf: ''
+url_pdf: '/papers/ASE2024.pdf'
 url_code: 'https://hub.docker.com/r/parfdocker/parf'
 url_dataset: ''
 url_poster: ''
