@@ -22,7 +22,7 @@ date: '2024-10-28T00:00:00Z'
 #date: '2015-09-01T00:00:00Z'
 #lastmod: 2021-10-07T18:49:05-06:00
 
-doi: ''
+doi: '10.1145/3664647.3681018'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2017-01-01T00:00:00Z'
@@ -51,7 +51,7 @@ summary: ''
 # links:
 # - name: ""
 #   url: ""
-url_pdf: 'https://openreview.net/forum?id=BtVxv8wvbj'
+url_pdf: '/papers/MM2024.pdf'
 url_code: 'https://anonymous.4open.science/r/UniGM-DA65'
 url_dataset: ''
 url_poster: ''
