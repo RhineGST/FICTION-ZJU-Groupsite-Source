@@ -77,12 +77,19 @@ table {
     text-align: left;
   }
 
-  th {
-  //  background-color: $table-bg-header;
+  th:nth-child(1), 
+  td:nth-child(1) {
+    width: 12%;
   }
 
-  tr:nth-child(even) {
-  //  background-color: $table-bg-even;
+  th:nth-child(3), 
+  td:nth-child(3) {
+    width: 15%;
+  }
+
+  th:nth-child(4), 
+  td:nth-child(4) {
+    width: 10%;
   }
 
   tr:hover {
