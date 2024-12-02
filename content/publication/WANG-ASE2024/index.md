@@ -59,9 +59,9 @@ url_code: 'https://hub.docker.com/r/parfdocker/parf'
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: ''
+url_slides: '/slides/ASE24.pdf'
 url_source: ''
-url_video: ''
+url_video: 'https://zenodo.org/records/14252572?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6ImY5ODE3NWYwLWM3ZjQtNDU2Yy04YWQ5LTZlZWYxYTdkYzgwYyIsImRhdGEiOnt9LCJyYW5kb20iOiJmNzU1ZWY3ZjkxNWM3YzgyYzJiNGVlNjNlZjgxZmYxZCJ9.qxP2OqbRu1l8URrZU4H9lzx39bKbozHo8k7G1rI583SXzJ24_vs2ZNuD6Jf5dftvU_cSGyqCQDZlxV9rwaeLSQ'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
