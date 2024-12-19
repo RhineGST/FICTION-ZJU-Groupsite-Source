@@ -1,9 +1,9 @@
 ---
-title: Seminar Page
+title: FICTION Seminar
 type: landing
 ---
 
-This is the homepage for FICTION Seminars.
+<!-- This is the homepage for FICTION Seminar. -->
 
 <br/>
 <br/>

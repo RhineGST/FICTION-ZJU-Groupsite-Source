@@ -19,7 +19,7 @@ main:
   - name: Publications
     url: "/publication"
     weight: 50
-  - name: Seminars
+  - name: Seminar
     url: "/seminar"
     weight: 50
   - name: Courses
