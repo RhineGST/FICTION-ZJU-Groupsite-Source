@@ -19,6 +19,9 @@ main:
   - name: Publications
     url: "/publication"
     weight: 50
+  - name: Seminar
+    url: "/seminar"
+    weight: 50
   - name: Courses
     url: "/courses"
     weight: 60
