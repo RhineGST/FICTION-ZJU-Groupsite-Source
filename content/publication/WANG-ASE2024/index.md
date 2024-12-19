@@ -49,9 +49,11 @@ tags:
 # Summary. An optional shortened abstract.
 summary: ''
 
-#links:
-#  - name: ""
-#    url: ""
+links:
+  - icon_pack: fas
+    icon: certificate
+    name: "2nd Prize@ChinaSoft'24"
+    url: "/files/Parf-ChinaSoft24.png"
 url_pdf: '/papers/ASE2024.pdf'
 url_code: 'https://hub.docker.com/r/parfdocker/parf'
 url_dataset: ''
