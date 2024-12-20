@@ -1,5 +1,5 @@
 ---
-title: Seminar August 14, 2024
+title: General Topics on August 14, 2024
 date: 2024-08-14
 ---
 

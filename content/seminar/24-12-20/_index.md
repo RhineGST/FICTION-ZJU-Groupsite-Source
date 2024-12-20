@@ -1,5 +1,5 @@
 ---
-title: Seminar December 20, 2024
+title: General Topics on December 20, 2024
 date: 2024-12-20
 ---
 
