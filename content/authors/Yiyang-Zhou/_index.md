@@ -70,4 +70,4 @@ social:
     link: https://github.com/TheDarrrkForest
 ---
 
-I am currently working on my Bachelor's thesis at the [Formal Verification Group](/) under the supervision of Dr. Mingshuai Chen, focusing on the formal verification of **Decoy-State QKD Protocol**. Later in 2025, I will join the group as an M.Sc. Candidate.
+I am currently working on my Bachelor's thesis at the [Formal Verification Group](/) under the supervision of Dr. Mingshuai Chen. My research focuses on the formal verification of *Decoy-State QKD Protocols*. Later in 2025, I will join the group as a M.Sc. candidate.
