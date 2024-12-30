@@ -47,9 +47,10 @@ highlight_name: false
 
 interests:
   - Formal Methods
+  - Programming Languages
   - Quantum Computing
   - Theorem Proving
-  - Hybrid Automata
+  - Hybrid Systems
   
 
 education:
@@ -70,4 +71,4 @@ social:
     link: https://github.com/RhineGST
 ---
 
-I am currently working on my Bachelor's thesis at the [Formal Verification Group](/) under the supervision of Dr. Mingshuai Chen. My research focuses on the quantum computing and hybrid automata. I will join the group as a Ph.D. Candidate in September 2025.
+I am currently working on my Bachelor's thesis at the [Formal Verification Group](/) under the supervision of Dr. Mingshuai Chen. My research focuses on quantum programming languages and hybrid system identification. I will join the group as a Ph.D. Candidate in September 2025.
